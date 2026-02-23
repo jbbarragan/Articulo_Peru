@@ -1,0 +1,1226 @@
+﻿Region,Nombre,lat,lon,Tipo,Minas Cerca?,Cantidad,Distancia a mina (Km),Densidad poblacional,Tipo de suelo,uso de suelo,Contaminación,Tipo de contaminación
+AMAZONAS,Río Utcubamba,-6.022247064,-77.95217782,Río,0,0,,9.464,Natural,,0,
+AMAZONAS,Río Marañón,-5.664337314,-78.64709438,Río,1,1,6.46,21.193,Natural,,1,mining
+AMAZONAS,Río Marañón,-5.063582055,-78.34689557,Río,0,0,,7.479,Forest,,0,
+AMAZONAS,Río Numpatkay,-4.887792099,-78.53486659,Río,0,0,,7.479,Forest,,0,
+AMAZONAS,Río Tunduza,-4.628237427,-78.59905932,Río,0,0,,7.479,Forest,,0,
+AMAZONAS,Río Numpatkay,-4.612750118,-78.47635759,Río,0,0,,2.533,Forest,,0,
+AMAZONAS,Río Cenepa,-4.552225959,-78.18180197,Río,0,0,,2.533,Natural,,0,
+AMAZONAS,Río Comaina,-4.420998334,-78.26016977,Río,0,0,,2.533,Natural,,0,
+AMAZONAS,Río Numpatkay,-4.418381158,-78.40402759,Río,0,0,,2.533,Agricultural,,0,
+AMAZONAS,Río Achuime,-4.37012473,-78.5238107,Río,0,0,,2.533,Natural,,0,
+AMAZONAS,Río Comaina,-4.121997111,-78.39613396,Río,1,1,18.81,2.533,Natural,,1,mining
+AMAZONAS,Río Cenepa,-3.912954888,-78.2518342,Río,0,0,,2.533,Natural,,0,
+AMAZONAS,Río Marañón,-4.590397876,-77.91504855,Río,1,1,6.75,5.582,Natural,,1,mining
+AMAZONAS,Río Santiago,-3.721243197,-77.76553567,Río,1,1,10.84,2.358,Agricultural,,1,mining
+ANCASH,Río Pativilca,-10.51438331,-77.17080317,Río,1,1,3.2,3.894,Agricultural,,1,mining
+ANCASH,Quebrada Julquillas,-10.4556038,-77.5429511,Quebrada,1,2,9.94,0.853,Natural,,1,mining
+ANCASH,Quebrada Huanchay,-10.39830508,-77.40264799,Quebrada,1,2,13.02,5.278,Natural,,1,mining
+ANCASH,Río Pativilca,-10.34120472,-77.15555519,Río,0,0,,12.106,Agricultural,,0,
+ANCASH,Río Purísima,-10.25704798,-77.48564276,Río,1,1,17.49,10.624,Natural,,1,mining
+ANCASH,Río Fortaleza,-10.24968953,-77.5752767,Río,1,1,19.08,6.808,Natural,,1,mining
+ANCASH,Río Achín,-10.22745848,-77.03299952,Río,1,2,11.09,3.708,Agricultural,,1,mining
+ANCASH,Río Fortaleza,-10.16554709,-77.52886036,Río,1,2,10.52,7.8,Natural,,1,mining
+ANCASH,Río Fortaleza,-10.14904827,-77.36663382,Río,1,3,15.73,9.909,Urban,,1,mining
+ANCASH,Río Achín,-10.243147,-76.94336203,Río,1,4,12.79,3.708,Urban,,1,mining
+ANCASH,Quebrada Shacsha,-10.15802419,-77.24298818,Quebrada,0,0,,20.774,Urban,,0,
+ANCASH,Río Marca,-10.06747479,-77.47205032,Río,1,3,5.27,11.652,Natural,,1,mining
+ANCASH,Río Huarmey,-10.06693544,-78.11058318,Río,1,1,11.18,9.591,Natural,,1,mining
+ANCASH,Río Huayllapampa,-10.05966017,-77.53623551,Río,1,3,10.19,4.838,Natural,,1,mining
+ANCASH,Quebrada Gargar,-10.05332678,-77.97439579,Quebrada,1,2,14.13,9.591,Natural,,1,mining
+ANCASH,Río Pativilca,-10.04526526,-77.12949933,Río,1,7,15.07,4.262,Mining,,2,mining
+ANCASH,Río Huarmey,-10.02456013,-78.05020601,Río,1,1,7.49,9.591,Natural,,1,mining
+ANCASH,Río Malvas,-10.01987085,-77.67029697,Río,0,0,,8.405,Natural,,0,
+ANCASH,Río Huarmey,-10.01416924,-77.94500658,Río,1,2,12.63,9.591,Natural,,1,mining
+ANCASH,Quebrada Pedregal,-9.953154394,-77.95263087,Quebrada,1,2,13.45,9.591,Natural,,1,mining
+ANCASH,Río Santa,-9.944199858,-77.38204422,Río,1,3,12.83,3.891,Agricultural,,1,mining
+ANCASH,Río Culebras,-9.894545521,-78.13170104,Río,1,1,9.52,5.437,Natural,,1,mining
+ANCASH,Río Aija,-9.87550502,-77.76428238,Río,1,2,19.57,5.903,Natural,,1,mining
+ANCASH,Río Culebras,-9.83045901,-78.00394147,Río,1,1,17.96,5.437,Natural,,1,mining
+ANCASH,Río Allma,-9.818526316,-77.57128482,Río,1,6,9.37,13.108,Natural,,2,mining
+ANCASH,Quebrada Junco,-9.804047255,-78.0125504,Quebrada,0,0,,5.437,Agricultural,,0,
+ANCASH,Quebrada Cota Puquio,-9.789324655,-77.86542316,Quebrada,0,0,,5.903,Natural,,0,
+ANCASH,Quebrada Huanchay,-9.784404578,-77.96499682,Quebrada,0,0,,5.437,Natural,,0,
+ANCASH,Quebrada Copipunta,-9.773934097,-77.80982578,Quebrada,1,1,19.54,8.034,Natural,,1,mining
+ANCASH,Río Huanchay,-9.749274966,-77.90832741,Río,0,0,,8.034,Natural,,0,
+ANCASH,Río Huanchay,-9.739407083,-77.78750655,Río,1,3,18.13,8.034,Natural,,1,mining
+ANCASH,Río La Merced,-9.720066879,-77.60977462,Río,1,5,6.58,9.081,Natural,,1,mining
+ANCASH,Quebrada Acray,-9.717358179,-77.9401113,Quebrada,0,0,,2.852,Natural,,0,
+ANCASH,Río Pativilca,-9.868758354,-77.16064855,Río,1,9,14.9,4.262,Natural,,2,mining
+ANCASH,Río Puchka,-9.469166372,-77.14192954,Río,1,2,10.83,35.89,Natural,,1,mining
+ANCASH,Quebrada Utcuyacu,-9.846358495,-77.43835626,Quebrada,1,5,14.16,3.891,Natural,,1,mining
+ANCASH,Río Pachacoto,-9.880361318,-77.29219353,Río,1,2,17.87,3.891,Natural,,1,mining
+ANCASH,Quebrada Patishgo,-10.03557493,-77.22327283,Quebrada,1,2,18.44,4.262,Natural,,1,mining
+ANCASH,Río Shiqui,-10.01285056,-77.26114996,Río,1,2,17.61,3.891,Natural,,1,mining
+ANCASH,Río Yanayacu,-9.751500189,-77.33480093,Río,1,1,14.56,3.891,Natural,,1,mining
+ANCASH,Río Santa,-9.647521828,-77.48719952,Río,1,6,17.38,11.245,Natural,,2,mining
+ANCASH,Río Santa,-9.798437506,-77.43430093,Río,1,5,13.43,3.891,Natural,,2,mining
+ANCASH,Río Santa,-9.83280953,-77.41500593,Río,1,5,15.39,3.891,Natural,,2,mining
+ANCASH,Río Santa,-10.07537269,-77.30459306,Río,1,2,16.14,3.891,Natural,,1,mining
+ANCASH,Río Vado,-9.630428829,-77.73372923,Río,1,2,8.33,7.663,Natural,,1,mining
+ANCASH,Río Pira,-9.559951642,-77.6844551,Río,1,5,13.37,13.752,Natural,,1,mining
+ANCASH,Río Casma,-9.546283236,-78.15997092,Río,0,0,,35.445,Natural,,1,urban
+ANCASH,Río Chacchan,-9.546187579,-77.78708398,Río,1,4,13.19,32.725,Natural,,1,mining
+ANCASH,Río Grande,-9.542194509,-77.91709026,Río,1,2,15.13,32.725,Natural,,1,mining
+ANCASH,Río Casma,-9.467239438,-78.32498687,Río,1,1,18.04,35.445,Natural,,1,mining
+ANCASH,Río Chacchan,-9.464723333,-77.73066017,Río,1,7,13.7,32.725,Natural,,2,mining
+ANCASH,Río Yaután,-9.434656238,-77.89647422,Río,1,3,10.92,12.13,Natural,,1,mining
+ANCASH,Río Sechín,-9.335017028,-78.06554375,Río,0,0,,11.989,Natural,,0,
+ANCASH,Río Loco,-9.188337404,-78.048879,Río,1,11,14.53,17.281,Natural,,2,mining
+ANCASH,Río Nepeña,-9.143768385,-78.20536207,Río,1,13,5.05,32.718,Natural,,2,mining
+ANCASH,Río Larea,-9.106772347,-77.99767476,Río,1,9,16.0,17.281,Natural,,2,mining
+ANCASH,Río Jimbe,-9.068083966,-78.160786,Río,1,13,9.47,9.084,Natural,,2,mining
+ANCASH,Quebrada Lacramarca,-9.020437942,-78.54420434,Quebrada,0,0,,150.666,Agricultural,,2,urban
+ANCASH,Río Colcap,-8.971072732,-78.04968005,Río,1,3,11.42,9.084,Natural,,1,mining
+ANCASH,Quebrada La Pampa del Toro,-8.970641974,-78.34115005,Quebrada,1,2,16.82,150.666,Natural,,2,"mining, urban"
+ANCASH,Quebrada Lampanín,-8.962811587,-78.14835566,Quebrada,1,9,17.94,9.084,Natural,,2,mining
+ANCASH,Quebrada Yucaspunta,-8.949486083,-78.23784978,Quebrada,1,2,15.55,150.666,Natural,,2,"mining, urban"
+ANCASH,Quebrada Lacramarca,-8.90618558,-78.4010568,Quebrada,1,1,19.7,150.666,Natural,,2,"mining, urban"
+ANCASH,Quebrada Lacramarca,-8.898749206,-78.28089576,Quebrada,1,1,19.4,150.666,Natural,,2,"mining, urban"
+ANCASH,Quebrada Lacramarca,-8.890031743,-78.30818624,Quebrada,0,0,,150.666,Natural,,2,urban
+ANCASH,Quebrada Santa Ana,-8.878246538,-78.18637093,Quebrada,1,2,14.85,5.594,Natural,,1,mining
+ANCASH,Río Santa,-8.872929678,-78.58118315,Río,1,1,15.32,150.666,Natural,,2,"mining, urban"
+ANCASH,Quebrada Totoral,-8.867077608,-78.25432629,Quebrada,1,1,14.94,150.666,Natural,,2,"mining, urban"
+ANCASH,Quebrada Lupahuari,-8.826398326,-78.21916434,Quebrada,1,1,9.26,5.594,Natural,,1,mining
+ANCASH,Río Quitaracsa,-8.761082851,-77.70247507,Río,1,3,12.0,4.093,Natural,,1,mining
+ANCASH,Río Santa,-8.747736012,-77.91327434,Río,1,3,15.68,4.093,Natural,,1,mining
+ANCASH,Río Samanco,-9.235293332,-78.38945841,Río,1,2,18.44,32.718,Natural,,1,mining
+ANCASH,Río Nepeña,-9.162062286,-78.27280691,Río,1,13,9.67,32.718,Natural,,2,mining
+ANCASH,Quebrada Lappra,-9.096494384,-78.22188305,Quebrada,1,13,6.93,32.718,Natural,,2,mining
+ANCASH,Río Yanamayo,-9.031187356,-77.3610366,Río,0,0,,43.091,Natural,,1,urban
+ANCASH,Río Quellcayhuanca,-9.466387668,-77.37946119,Río,0,0,,265.909,Natural,,2,urban
+ANCASH,Quebrada Honda,-9.323845936,-77.47656924,Quebrada,1,1,17.01,63.156,Natural,,1,"mining, urban"
+ANCASH,Río Yuracma,-8.947368218,-77.71356839,Río,1,3,15.04,12.923,Natural,,1,mining
+ANCASH,Río Santa,-8.862564119,-77.82897807,Río,1,5,15.22,4.093,Natural,,2,mining
+ANCASH,Río Santa,-9.136856296,-77.76048273,Río,1,6,16.21,82.706,Natural,,2,"mining, urban, quimic"
+ANCASH,Río Santa,-9.418274171,-77.56220878,Río,1,3,8.02,86.76,Natural,,1,"mining, urban, quimic"
+ANCASH,Río Quellcayhuanca,-9.519968336,-77.47712148,Río,1,2,13.73,265.909,Natural,,2,"mining, urban"
+ANCASH,Río Yanamayo,-9.216495141,-77.4794182,Río,1,1,17.86,10.203,Natural,,1,mining
+ANCASH,Río Santa,-8.663650439,-78.11538867,Río,1,2,17.09,5.594,Natural,,1,mining
+ANCASH,Río Manta,-8.55188445,-77.85308265,Río,1,4,17.27,6.508,Natural,,1,mining
+APURIMAC,Río Vilcabamba,-14.186208,-72.62419618,Río,1,12,9.91,10.886,Natural,,2,mining
+APURIMAC,Río Pampas,-13.50937446,-73.814178,Río,0,0,,39.963,Natural,,1,urban
+APURIMAC,Río Pisquiccocha,-14.72462965,-73.43454724,Río,0,0,,1.358,Natural,,0,
+APURIMAC,Río Pachachaca,-14.01336615,-73.18383216,Río,1,9,15.51,7.094,Natural,,2,mining
+APURIMAC,Río Apurímac,-13.45806554,-72.78545303,Río,0,0,,22.962,Natural,,0,
+APURIMAC,Río Apurímac,-13.43076268,-73.18509133,Río,1,1,2.93,11.651,Natural,,1,mining
+APURIMAC,Río Apurímac,-13.69030382,-72.28147999,Río,1,5,12.07,12.684,Natural,,2,mining
+AREQUIPA,Quebrada La Chira,-16.50521842,-72.92816456,Quebrada,1,1,12.13,12.466,Natural,,1,mining
+AREQUIPA,Quebrada Jahuay,-16.4829171,-72.84745966,Quebrada,1,1,15.83,12.466,Natural,,1,mining
+AREQUIPA,Quebrada Pacheco,-16.45522554,-72.90953301,Quebrada,1,1,8.68,12.466,Natural,,1,mining
+AREQUIPA,Quebrada Yerbabuena,-16.44518111,-73.05719806,Quebrada,1,3,15.41,3.047,Natural,,1,mining
+AREQUIPA,Quebrada Pacheco,-16.4191697,-72.87303094,Quebrada,1,1,10.59,12.466,Natural,,1,mining
+AREQUIPA,Quebrada Pacheco,-16.40732516,-72.85396732,Quebrada,1,1,12.5,12.466,Natural,,1,mining
+AREQUIPA,Quebrada Yerbabuena,-16.37812172,-73.00804163,Quebrada,1,2,9.87,3.047,Natural,,1,mining
+AREQUIPA,Quebrada La Chira - Colorada,-16.36415071,-72.93797927,Quebrada,1,1,5.68,3.047,Natural,,1,mining
+AREQUIPA,Quebrada 13564,-16.35963991,-72.88789945,Quebrada,1,1,10.16,12.466,Natural,,1,mining
+AREQUIPA,Quebrada 13566,-16.35419262,-72.82629231,Quebrada,1,1,16.41,12.466,Natural,,1,mining
+AREQUIPA,Quebrada Yerbabuena,-16.33881294,-72.97740414,Quebrada,1,2,11.95,3.047,Natural,,1,mining
+AREQUIPA,Quebrada 13587,-16.32806075,-72.9525239,Quebrada,1,2,13.91,3.047,Natural,,1,mining
+AREQUIPA,Quebrada 13612,-16.3248733,-73.11088867,Quebrada,1,4,12.98,3.047,Natural,,1,mining
+AREQUIPA,Quebrada 13568,-16.25422559,-72.84749402,Quebrada,0,0,,3.047,Natural,,0,
+AREQUIPA,Quebrada Pacheco,-16.24919368,-72.8625861,Quebrada,0,0,,3.047,Natural,,0,
+AREQUIPA,Quebrada 13582,-16.21762485,-73.04270571,Quebrada,1,1,14.47,3.047,Natural,,1,mining
+AREQUIPA,Quebrada La Yesera,-16.20623237,-72.81617758,Quebrada,0,0,,2.768,Natural,,0,
+AREQUIPA,Quebrada Yerbabuena,-16.18831835,-72.94603176,Quebrada,0,0,,3.047,Natural,,0,
+AREQUIPA,Quebrada 13584,-16.18148559,-73.01864184,Quebrada,1,1,19.2,3.047,Natural,,1,mining
+AREQUIPA,Quebrada 13588,-16.17342509,-72.89971489,Quebrada,0,0,,3.047,Natural,,0,
+AREQUIPA,Quebrada 13589,-16.17066942,-72.92054613,Quebrada,0,0,,3.047,Natural,,0,
+AREQUIPA,Quebrada Surita,-16.10402452,-73.08967723,Quebrada,1,5,17.48,16.052,Natural,,1,mining
+AREQUIPA,Río Ocoña,-16.09193907,-73.17347106,Río,1,7,16.07,16.052,Natural,,2,mining
+AREQUIPA,Río Ocoña,-16.31119144,-73.13823321,Río,1,3,9.9,3.047,Natural,,1,mining
+AREQUIPA,Río Ocoña,-16.20911338,-73.15783722,Río,1,2,14.62,16.052,Natural,,1,mining
+AREQUIPA,Quebrada Pampablanca,-16.14117436,-73.05773289,Quebrada,0,0,,16.052,Natural,,0,
+AREQUIPA,Río Ocoña,-16.42163769,-73.11824941,Río,1,4,14.04,3.047,Natural,,1,mining
+AREQUIPA,Quebrada Cabramuerta,-16.50103251,-72.82274533,Quebrada,1,1,19.14,12.466,Natural,,1,mining
+AREQUIPA,Quebrada Honda,-17.11216834,-71.36786098,Quebrada,1,1,8.39,8.786,Natural,,1,mining
+AREQUIPA,Quebrada Caleta,-17.21215292,-71.57422775,Quebrada,0,0,,8.786,Natural,,0,
+AREQUIPA,Río Tambo,-17.07828264,-71.73579449,Río,1,1,7.53,5.495,Natural,,1,mining
+AREQUIPA,Río Tambo,-16.99417717,-71.62181623,Río,1,1,14.44,5.495,Natural,,1,mining
+AREQUIPA,Quebrada Pucará,-16.95061009,-71.97306318,Quebrada,1,2,15.5,28.766,Natural,,1,mining
+AREQUIPA,Quebrada Salinas,-16.93190288,-71.86832602,Quebrada,1,1,14.99,5.495,Natural,,1,mining
+AREQUIPA,Quebrada Centeno,-16.82795898,-72.18003636,Quebrada,1,2,12.69,14.449,Natural,,1,mining
+AREQUIPA,Quebrada San José,-16.78069592,-72.21742983,Quebrada,1,1,17.65,1.395,Natural,,1,mining
+AREQUIPA,Quebrada Linga,-16.75264283,-71.6771126,Quebrada,1,2,7.84,5.495,Natural,,1,mining
+AREQUIPA,Río Vitor,-16.63090834,-72.21973488,Río,0,0,,19.765,Natural,,0,
+AREQUIPA,Río Vitor,-16.60778478,-72.04843332,Río,0,0,,3.319,Natural,,0,
+AREQUIPA,Río Vitor,-16.57619181,-71.99408638,Río,0,0,,3.319,Natural,,0,
+AREQUIPA,Río Vitor,-16.45107603,-71.88270499,Río,0,0,,3.319,Natural,,0,
+AREQUIPA,Quebrada Carachosa,-16.41629882,-72.19655445,Quebrada,0,0,,46.43,Natural,,1,urban
+AREQUIPA,Quebrada Molle Chico,-16.40247649,-72.00367518,Quebrada,0,0,,3.319,Natural,,0,
+AREQUIPA,Río Chili,-16.38020112,-71.78792597,Río,0,0,,24.055,Natural,,0,
+AREQUIPA,Quebrada Hospicio,-16.37894282,-72.24320336,Quebrada,0,0,,46.43,Natural,,1,urban
+AREQUIPA,Quebrada Huachipa,-16.36889444,-71.94521249,Quebrada,0,0,,3.319,Natural,,0,
+AREQUIPA,Río Yura,-16.36133205,-71.78674522,Río,0,0,,24.055,Natural,,0,
+AREQUIPA,Quebrada Molles,-16.36009914,-72.02731197,Quebrada,0,0,,3.319,Natural,,0,
+AREQUIPA,Quebrada 13424,-16.3031776,-72.23655715,Quebrada,0,0,,46.43,Natural,,1,urban
+AREQUIPA,Quebrada El Cuico,-16.29440116,-71.68582948,Quebrada,0,0,,24.055,Natural,,0,
+AREQUIPA,Río Yura,-16.28241688,-71.74038445,Río,0,0,,24.055,Natural,,0,
+AREQUIPA,Río Chili,-16.43341064,-71.6270899,Río,1,4,17.19,66.323,Natural,,1,"mining, urban, quimic"
+AREQUIPA,Río Chili,-16.40114834,-71.73374399,Río,0,0,,66.323,Natural,,1,urban
+AREQUIPA,Quebrada Estanquillo,-16.3696899,-71.62274668,Quebrada,0,0,,1396.408,Natural,,2,urban
+AREQUIPA,Río Vitor,-16.62155337,-72.10111292,Río,0,0,,3.319,Natural,,0,
+AREQUIPA,Río Sihuas,-16.51912332,-72.22647764,Río,0,0,,1.395,Natural,,0,
+AREQUIPA,Río Sihuas,-16.31323629,-72.10084179,Río,0,0,,3.491,Natural,,0,
+AREQUIPA,Quebrada Estanquillo,-16.2597665,-71.57190126,Quebrada,0,0,,1396.408,Natural,,2,urban
+AREQUIPA,Río Chili,-16.3946855,-71.5408488,Río,1,4,16.99,4906.694,Natural,,2,"mining, urban, quimic"
+AREQUIPA,Río Yarabamba,-16.46505413,-71.5570675,Río,1,5,11.79,3405.727,Natural,,2,"mining, urban, quimic"
+AREQUIPA,Río Tambo,-17.16264263,-71.84071271,Río,1,1,18.88,54.899,Natural,,1,"mining, urban"
+AREQUIPA,Río Yarabamba,-16.55618721,-71.3781815,Río,1,7,15.51,2.005,Natural,,2,mining
+AREQUIPA,Quebrada Huerta,-16.45654674,-71.02291982,Quebrada,1,3,15.7,0.537,Natural,,1,mining
+AREQUIPA,Quebrada Ticma,-16.43440321,-71.18005059,Quebrada,1,2,17.33,0.537,Natural,,1,mining
+AREQUIPA,Río Chacalaque,-16.32323725,-71.02231339,Río,0,0,,0.537,Natural,,0,
+AREQUIPA,Quebrada 13202,-16.29233199,-71.08291433,Quebrada,0,0,,0.537,Natural,,0,
+AREQUIPA,Río Chili,-16.24481778,-71.40303345,Río,0,0,,473.314,Natural,,2,urban
+AREQUIPA,Río Cancusane,-16.244054,-70.94911272,Río,0,0,,0.537,Natural,,0,
+AREQUIPA,Río Saccani,-16.21955156,-71.07202066,Río,0,0,,0.537,Natural,,0,
+AREQUIPA,Río Blanco,-16.1748896,-71.24482654,Río,0,0,,0.537,Natural,,0,
+AREQUIPA,Río Chili,-16.16975715,-71.31666212,Río,0,0,,24.055,Natural,,0,
+AREQUIPA,Río Cancusane,-16.13924182,-71.04173654,Río,0,0,,0.537,Natural,,0,
+AREQUIPA,Quebrada Palca,-16.13422628,-71.27207781,Quebrada,0,0,,0.537,Natural,,0,
+AREQUIPA,Río Chili,-16.12329816,-71.32237193,Río,0,0,,0.537,Natural,,0,
+AREQUIPA,Río Blanco,-16.1166582,-71.0468719,Río,0,0,,0.537,Natural,,0,
+AREQUIPA,Río Blanco,-16.11586007,-71.12034095,Río,0,0,,0.537,Natural,,0,
+AREQUIPA,Río Patimayo,-16.11165923,-70.95098307,Río,0,0,,0.537,Natural,,0,
+AREQUIPA,Río Chili,-16.08042203,-71.35558321,Río,0,0,,24.055,Natural,,0,
+AREQUIPA,Río Pasto Grande,-16.07902831,-71.16688898,Río,0,0,,0.537,Natural,,0,
+AREQUIPA,Quebrada Huancune,-16.04099087,-71.29190322,Quebrada,0,0,,0.537,Natural,,0,
+AREQUIPA,Río Yanamayo,-16.02194343,-71.00627434,Río,0,0,,0.537,Natural,,0,
+AREQUIPA,Quebrada Huata,-16.01969751,-71.45228306,Quebrada,0,0,,24.055,Natural,,0,
+AREQUIPA,Río Chili,-15.99507972,-71.34720055,Río,0,0,,24.055,Natural,,0,
+AREQUIPA,Río Cochinasa,-15.98652238,-70.92347719,Río,0,0,,0.537,Natural,,0,
+AREQUIPA,Río Chili,-16.19892989,-71.32526577,Río,0,0,,0.537,Natural,,0,
+AREQUIPA,Río Chili,-16.30934616,-71.49295402,Río,0,0,,473.314,Natural,,2,urban
+AREQUIPA,Río Quilca,-16.72444121,-72.42008118,Río,0,0,,1.395,Natural,,0,
+AREQUIPA,Quebrada Saucillo,-16.69570998,-72.3748363,Quebrada,0,0,,1.395,Natural,,0,
+AREQUIPA,Río Quilca,-16.61232701,-72.3122415,Río,0,0,,1.395,Natural,,0,
+AREQUIPA,Río Camaná,-16.60538833,-72.74443076,Río,0,0,,327.107,Natural,,2,urban
+AREQUIPA,Río Camaná,-16.55868804,-72.72445047,Río,0,0,,21.797,Natural,,0,
+AREQUIPA,Quebrada Herrera,-16.52719494,-72.75023242,Quebrada,0,0,,21.797,Natural,,0,
+AREQUIPA,Quebrada Tinta,-16.50103569,-72.70093914,Quebrada,0,0,,21.797,Natural,,0,
+AREQUIPA,Río Camaná,-16.49635061,-72.5740631,Río,0,0,,21.797,Natural,,0,
+AREQUIPA,Quebrada Molles,-16.47809808,-72.51042164,Quebrada,0,0,,21.797,Natural,,0,
+AREQUIPA,Quebrada Molles,-16.45513446,-72.41914329,Quebrada,0,0,,46.43,Natural,,1,urban
+AREQUIPA,Quebrada Molles,-16.38936141,-72.35686169,Quebrada,0,0,,46.43,Natural,,1,urban
+AREQUIPA,Quebrada Manga,-16.34486865,-72.76201107,Quebrada,0,0,,12.466,Natural,,0,
+AREQUIPA,Quebrada Molles,-16.29996425,-72.30427346,Quebrada,0,0,,46.43,Natural,,1,urban
+AREQUIPA,Quebrada Cabramuerta,-16.292601,-72.70398821,Quebrada,0,0,,2.768,Natural,,0,
+AREQUIPA,Quebrada Crespón,-16.24887496,-72.33155565,Quebrada,0,0,,46.43,Natural,,1,urban
+AREQUIPA,Quebrada Puluviñas,-16.16861567,-72.66106236,Quebrada,0,0,,15.3,Natural,,0,
+AREQUIPA,Quebrada Manga,-16.16194191,-72.71580254,Quebrada,0,0,,2.768,Natural,,0,
+AREQUIPA,Quebrada Cunocuno,-16.11897217,-72.77209381,Quebrada,0,0,,2.768,Natural,,0,
+AREQUIPA,Quebrada Pachana,-16.05475653,-72.7238482,Quebrada,0,0,,2.768,Natural,,0,
+AREQUIPA,Río Majes,-16.02555139,-72.48480369,Río,1,1,12.35,15.3,Natural,,1,mining
+AREQUIPA,Río Majes,-16.00000844,-72.47281896,Río,1,1,10.08,2.013,Natural,,1,mining
+AREQUIPA,Quebrada 13438,-15.99130206,-72.37089178,Quebrada,1,6,16.76,2.013,Natural,,2,mining
+AREQUIPA,Quebrada Cosos,-15.97817573,-72.56422358,Quebrada,1,1,8.71,15.3,Natural,,1,mining
+AREQUIPA,Quebrada Illoma,-15.96200427,-72.73456878,Quebrada,0,0,,2.768,Natural,,0,
+AREQUIPA,Río Majes,-15.92106012,-72.4631572,Río,1,1,5.29,2.013,Natural,,1,mining
+AREQUIPA,Quebrada Esbilla,-15.90697627,-72.77252174,Quebrada,1,7,16.55,0.824,Natural,,2,mining
+AREQUIPA,Quebrada Huario,-15.90192302,-72.57084589,Quebrada,1,1,6.49,2.677,Natural,,1,mining
+AREQUIPA,Quebrada Seca,-15.88215788,-72.33981441,Quebrada,1,2,15.62,2.013,Natural,,1,mining
+AREQUIPA,Río Camaná,-16.36201237,-72.48824851,Río,0,0,,9.071,Natural,,0,
+AREQUIPA,Río Majes,-16.14070917,-72.47671102,Río,0,0,,15.3,Natural,,0,
+AREQUIPA,Quebrada Sicera,-16.13727043,-72.31231779,Quebrada,1,4,14.61,46.43,Natural,,1,mining
+AREQUIPA,Quebrada Omo,-16.67366209,-72.30837977,Quebrada,0,0,,1.395,Natural,,0,
+AREQUIPA,Río Quilca,-16.62175793,-72.34612291,Río,0,0,,1.395,Natural,,0,
+AREQUIPA,Río Quilca,-16.71214282,-72.40997768,Río,0,0,,1.395,Natural,,0,
+AREQUIPA,Quebrada Platanal,-16.69092873,-72.3223426,Quebrada,0,0,,1.395,Natural,,0,
+AREQUIPA,Río Quilca,-16.66527721,-72.39109223,Río,0,0,,1.395,Natural,,0,
+AREQUIPA,Río Camaná,-16.52994423,-72.66588764,Río,0,0,,21.797,Natural,,0,
+AREQUIPA,Quebrada Pisques,-16.52411668,-72.58282256,Quebrada,0,0,,46.43,Natural,,1,urban
+AREQUIPA,Río Camaná,-16.49631978,-72.61653143,Río,0,0,,21.797,Natural,,0,
+AREQUIPA,Quebrada Cabramuerta,-16.41054259,-72.7554233,Quebrada,0,0,,12.466,Natural,,0,
+AREQUIPA,Quebrada Cabramuerta,-16.37614629,-72.72011827,Quebrada,0,0,,12.466,Natural,,0,
+AREQUIPA,Quebrada Cabramuerta,-16.35016147,-72.71651201,Quebrada,0,0,,2.768,Natural,,0,
+AREQUIPA,Quebrada Choclón,-16.00246992,-73.76552849,Quebrada,1,1,15.89,2.051,Natural,,1,mining
+AREQUIPA,Río Atico,-15.87267636,-73.57201246,Río,1,5,12.24,2.051,Natural,,1,mining
+AREQUIPA,Río Chaparra,-15.66631473,-73.81543499,Río,1,13,13.31,2.052,Natural,,2,mining
+AREQUIPA,Quebrada Honda,-15.66425118,-74.25125401,Quebrada,1,15,10.76,1.391,Natural,,2,mining
+AREQUIPA,Río Yauca,-15.57522152,-74.47770968,Río,1,6,13.23,4.41,Natural,,2,mining
+AREQUIPA,Río Acarí,-15.49984941,-74.62544885,Río,1,4,13.58,5.074,Natural,,1,mining
+AREQUIPA,Río Lampalla,-15.39734384,-74.38982479,Río,1,9,13.93,4.108,Natural,,2,mining
+AREQUIPA,Quebrada Lucasi,-15.26643704,-74.4886222,Quebrada,1,17,15.74,5.074,Natural,,2,mining
+AREQUIPA,Río Acarí,-15.18995942,-74.52256333,Río,1,24,12.8,5.074,Natural,,2,mining
+AREQUIPA,Río Pausa,-15.93494642,-71.23701491,Río,0,0,,0.651,Natural,,0,
+AREQUIPA,Quebrada Piscamayo,-15.92931835,-71.13851596,Quebrada,0,0,,0.651,Natural,,0,
+AREQUIPA,Río Colquiuta,-15.92833508,-70.93392526,Río,0,0,,0.651,Natural,,0,
+AREQUIPA,Río Chili,-15.91470028,-71.29935499,Río,0,0,,0.651,Natural,,0,
+AREQUIPA,Quebrada 13284,-15.895632,-71.08921556,Quebrada,0,0,,0.651,Natural,,0,
+AREQUIPA,Río Pillo,-15.87329798,-71.48741234,Río,0,0,,2.345,Natural,,0,
+AREQUIPA,Río Chili - Sumbay,-15.8717019,-71.22885522,Río,0,0,,0.651,Natural,,0,
+AREQUIPA,Río Arizaca Mayo o Cochi,-15.87012526,-70.99881383,Río,0,0,,0.651,Natural,,0,
+AREQUIPA,Quebrada 13296,-15.86691177,-71.42366583,Quebrada,0,0,,2.345,Natural,,0,
+AREQUIPA,Río Puncochane,-15.86494655,-70.94543039,Río,0,0,,0.651,Natural,,0,
+AREQUIPA,Río Chaupichimpanamay,-15.85507956,-71.31373089,Río,0,0,,2.345,Natural,,0,
+AREQUIPA,Río Chili - Sumbay,-15.85102308,-71.12912682,Río,0,0,,0.651,Natural,,0,
+AREQUIPA,Río Chili - Cuchinasa,-15.84794545,-71.0483489,Río,0,0,,0.651,Natural,,0,
+AREQUIPA,Río Capillane,-15.82615551,-71.45515229,Río,0,0,,2.345,Natural,,0,
+AREQUIPA,Río Chaupichimpanamay,-15.82337406,-71.33582927,Río,0,0,,2.345,Natural,,0,
+AREQUIPA,Río Caquemayo,-15.80683717,-71.24336724,Río,0,0,,0.651,Natural,,0,
+AREQUIPA,Río Sulluma,-15.80157887,-71.52031833,Río,1,2,18.57,2.345,Natural,,1,mining
+AREQUIPA,Río Capillane,-15.79024439,-71.38917235,Río,1,1,19.84,2.345,Natural,,1,mining
+AREQUIPA,Río Chalhuanca,-15.73369845,-71.38233512,Río,1,1,13.84,2.345,Natural,,1,mining
+AREQUIPA,Río Colca,-15.72256617,-71.05737445,Río,1,1,18.28,0.651,Natural,,1,mining
+AREQUIPA,Río Llapa,-15.55336764,-71.32700417,Río,1,2,6.6,1.122,Natural,,1,mining
+AREQUIPA,Río Colca,-15.42794305,-71.2462359,Río,1,1,15.06,1.122,Natural,,1,mining
+AREQUIPA,Río Colca,-15.38456999,-71.48684012,Río,0,0,,1.237,Natural,,0,
+AREQUIPA,Río Colca,-15.27420952,-71.4002903,Río,0,0,,1.237,Natural,,0,
+AREQUIPA,Río Negrillo,-15.49699465,-71.09477357,Río,1,1,13.41,1.122,Natural,,1,mining
+AREQUIPA,Río Colca,-15.52073861,-71.49860016,Río,1,3,16.52,3.113,Natural,,1,mining
+AREQUIPA,Río Colca,-15.84920953,-72.38995121,Río,1,3,17.85,0.685,Natural,,1,mining
+AREQUIPA,Río Colca,-15.83068238,-72.3285342,Río,1,3,18.02,2.013,Natural,,1,mining
+AREQUIPA,Quebrada Pachana,-15.8233267,-72.70675899,Quebrada,1,6,17.97,2.768,Natural,,2,mining
+AREQUIPA,Río Capiza,-15.80907581,-72.46417095,Río,1,3,15.98,0.685,Natural,,1,mining
+AREQUIPA,Río Colca,-15.79789648,-72.28692593,Río,1,4,18.25,0.685,Natural,,1,mining
+AREQUIPA,Río Colca,-15.76547197,-72.26348634,Río,1,5,17.09,1.078,Natural,,1,mining
+AREQUIPA,Quebrada Pichillhuay,-15.75383565,-72.30148935,Quebrada,1,5,15.8,0.685,Natural,,1,mining
+AREQUIPA,Río Colca,-15.74817317,-72.25194564,Río,1,6,16.15,1.078,Natural,,2,mining
+AREQUIPA,Río Llacllajo,-15.74690935,-72.48265581,Río,1,3,15.21,7.318,Natural,,1,mining
+AREQUIPA,Río Colca,-15.72471858,-72.23901855,Río,1,6,14.39,0.996,Natural,,2,mining
+AREQUIPA,Río Colca,-15.70076605,-72.22571951,Río,1,6,12.87,0.743,Natural,,2,mining
+AREQUIPA,Río Llato,-15.68787059,-72.59743947,Río,1,3,17.17,7.001,Natural,,1,mining
+AREQUIPA,Quebrada Jollpa,-15.65750071,-72.51553289,Quebrada,1,3,13.75,10.329,Natural,,1,mining
+AREQUIPA,Río Tapaza,-15.65452047,-72.49367259,Río,1,3,12.33,1.692,Natural,,1,mining
+AREQUIPA,Río Llacllajo,-15.65383998,-72.5522093,Río,1,4,16.9,10.329,Natural,,1,mining
+AREQUIPA,Quebrada Tambo,-15.49505203,-72.40722012,Quebrada,1,6,17.33,1.967,Natural,,2,mining
+AREQUIPA,Río Andahua,-15.46728343,-72.36655681,Río,1,7,16.41,1.967,Natural,,2,mining
+AREQUIPA,Quebrada Collpa Huayco,-15.44859164,-72.62626644,Quebrada,1,2,16.24,0.328,Natural,,1,mining
+AREQUIPA,Río de Chorillos,-15.44051166,-72.58703387,Río,1,1,11.69,0.328,Natural,,1,mining
+AREQUIPA,Río Atunmayo,-15.39643477,-72.69539768,Río,0,0,,0.328,Natural,,0,
+AREQUIPA,Río Atunmayo,-15.38855101,-72.68523579,Río,0,0,,0.328,Natural,,0,
+AREQUIPA,Río Andahua,-15.37460921,-72.39843378,Río,1,11,12.82,5.885,Natural,,2,mining
+AREQUIPA,Río Andahua,-15.33688767,-72.46097313,Río,1,12,14.64,2.274,Natural,,2,mining
+AREQUIPA,Río Chalahuerta,-15.32569335,-72.67059971,Río,1,1,19.11,0.328,Natural,,1,mining
+AREQUIPA,Río Chilcaimarca,-15.28487965,-72.3580825,Río,1,14,8.81,5.885,Natural,,2,mining
+AREQUIPA,Río León Huactana,-15.30405715,-72.60080041,Río,1,1,11.58,0.328,Natural,,1,mining
+AREQUIPA,Río Umachulco,-15.15918047,-72.40745751,Río,1,11,14.02,2.274,Natural,,2,mining
+AREQUIPA,Río Orcopampa,-15.19998618,-72.2722757,Río,1,13,12.67,11.748,Natural,,2,mining
+AREQUIPA,Río Misapuquio,-15.09613364,-72.33368971,Río,1,9,17.08,11.748,Natural,,2,mining
+AREQUIPA,Río Huarcaya,-15.01459581,-72.71509841,Río,1,4,9.82,1.582,Natural,,1,mining
+AREQUIPA,Río Dechincallapa,-14.9271389,-72.71031024,Río,1,5,16.87,2.03,Natural,,1,mining
+AREQUIPA,Río de Sumana,-14.9982808,-72.51078435,Río,1,4,15.54,1.582,Natural,,1,mining
+AREQUIPA,Río Cushpa,-14.76289064,-72.60005773,Río,1,4,13.45,1.582,Natural,,1,mining
+AREQUIPA,Río Aguas Calientes,-14.79271358,-72.73337667,Río,1,2,11.28,2.03,Natural,,1,mining
+AREQUIPA,Río Sihuarpo,-15.75818906,-72.53324551,Río,1,3,18.16,7.001,Natural,,1,mining
+AREQUIPA,Río Llacllajo,-15.73088173,-72.49911419,Río,1,2,13.61,7.318,Natural,,1,mining
+AREQUIPA,Río Llacllajo,-15.72079593,-72.5027587,Río,1,2,13.45,7.318,Natural,,1,mining
+AREQUIPA,Río Umachulco,-15.14333747,-72.55882146,Río,1,5,13.92,1.582,Natural,,1,mining
+AREQUIPA,Quebrada Huario,-15.68928657,-72.65674163,Quebrada,1,4,14.41,7.001,Natural,,1,mining
+AREQUIPA,Río Sihuas,-16.1741038,-72.03068205,Río,1,1,19.12,0.769,Natural,,1,mining
+AREQUIPA,Quebrada Aguasalada,-16.17204549,-71.83153395,Quebrada,0,0,,24.055,Natural,,0,
+AREQUIPA,Quebrada Jahuay,-16.17004934,-72.16526122,Quebrada,1,5,14.87,46.43,Natural,,1,mining
+AREQUIPA,Quebrada La Paccha,-16.151738,-71.64468424,Quebrada,0,0,,24.055,Natural,,0,
+AREQUIPA,Quebrada Caracharma,-16.12647336,-72.09282498,Quebrada,1,5,14.97,46.43,Natural,,1,mining
+AREQUIPA,Río Yura,-16.11900262,-71.67581319,Río,0,0,,24.055,Natural,,0,
+AREQUIPA,Río Sihuas,-16.11681542,-71.96173269,Río,0,0,,3.173,Natural,,0,
+AREQUIPA,Quebrada Chorrillos,-16.07984911,-72.18160699,Quebrada,1,6,7.21,0.769,Natural,,2,mining
+AREQUIPA,Quebrada La Paccha,-16.06606581,-71.53685437,Quebrada,0,0,,24.055,Natural,,0,
+AREQUIPA,Río Lihualla,-16.0243011,-71.80384001,Río,0,0,,3.173,Natural,,0,
+AREQUIPA,Río Ocoruro,-15.99277609,-71.58439327,Río,0,0,,24.055,Natural,,0,
+AREQUIPA,Río Acomayo,-15.98319499,-71.65052829,Río,0,0,,2.729,Natural,,0,
+AREQUIPA,Río Pichirijma,-15.96850729,-71.87710069,Río,0,0,,0.769,Natural,,0,
+AREQUIPA,Río Lluta,-15.95550985,-71.97679521,Río,1,1,17.15,0.769,Natural,,1,mining
+AREQUIPA,Río Chipana,-15.91949244,-71.68894224,Río,0,0,,2.729,Natural,,0,
+AREQUIPA,Quebrada Gloriahuasi,-15.87716276,-72.24944594,Quebrada,1,5,15.72,1.078,Natural,,1,mining
+AREQUIPA,Río Aycata,-15.85064049,-71.57831646,Río,1,1,18.68,2.345,Natural,,1,mining
+AREQUIPA,Quebrada Jasmín,-15.8404948,-72.17828069,Quebrada,1,2,11.89,1.078,Natural,,1,mining
+AREQUIPA,Río Sallalli,-15.82812448,-71.78529694,Río,1,1,18.96,3.552,Natural,,1,mining
+AREQUIPA,Río Parcomayo,-15.8125275,-71.73777052,Río,1,1,14.43,2.729,Natural,,1,mining
+AREQUIPA,Río Huambo,-15.7651744,-72.10395362,Río,1,4,15.83,1.078,Natural,,1,mining
+AREQUIPA,Río 13478,-15.66222078,-72.02708588,Río,1,3,11.62,5.32,Natural,,1,mining
+AREQUIPA,Río Colca,-15.65479929,-72.1581738,Río,1,6,9.42,0.743,Natural,,2,mining
+AREQUIPA,Río Colca,-15.63553898,-71.7569866,Río,1,3,14.58,2.73,Natural,,1,mining
+AREQUIPA,Río Mamacocha,-15.6155202,-72.25389188,Río,1,7,10.1,0.996,Natural,,2,mining
+AREQUIPA,Río Colca,-15.60702224,-72.07984613,Río,1,9,13.38,5.32,Natural,,2,mining
+AREQUIPA,Río Ayo,-15.59857483,-72.26683198,Río,1,7,10.44,0.996,Natural,,2,mining
+AREQUIPA,Río Colca,-15.5849063,-72.03511806,Río,1,8,13.74,5.32,Natural,,2,mining
+AREQUIPA,Río Chalza,-15.52194396,-72.12936706,Río,1,13,11.79,0.743,Natural,,2,mining
+AREQUIPA,Río Molloco,-15.48705921,-71.99928105,Río,1,7,12.45,0.743,Natural,,2,mining
+AREQUIPA,Quebrada Esbilla,-15.97242733,-72.920287,Quebrada,1,16,15.26,0.824,Natural,,2,mining
+AREQUIPA,Quebrada Chiliguay,-15.97038902,-73.05163597,Quebrada,1,21,11.83,6.701,Natural,,2,mining
+AREQUIPA,Quebrada Choruna,-15.93052421,-73.10539859,Quebrada,1,23,10.09,6.701,Natural,,2,mining
+AREQUIPA,Quebrada Choruna,-15.91903233,-73.06694192,Quebrada,1,25,10.6,6.701,Natural,,2,mining
+AREQUIPA,Quebrada Choruna,-15.89875914,-73.03723238,Quebrada,1,28,11.52,6.701,Natural,,2,mining
+AREQUIPA,Río Ocoña,-15.88496201,-73.11717695,Río,1,23,10.19,6.701,Natural,,2,mining
+AREQUIPA,Quebrada Pescadores,-15.86198382,-73.31698922,Quebrada,1,14,13.67,6.373,Natural,,2,mining
+AREQUIPA,Río Ocoña,-15.83814729,-73.09432993,Río,1,25,12.41,3.681,Natural,,2,mining
+AREQUIPA,Quebrada Churunga,-15.8355723,-72.93074785,Quebrada,1,23,11.12,0.824,Natural,,2,mining
+AREQUIPA,Quebrada Chalhuane,-15.79337213,-72.82161098,Quebrada,1,15,12.09,0.824,Natural,,2,mining
+AREQUIPA,Quebrada Ayanca,-15.78357475,-73.19069779,Quebrada,1,15,15.22,6.701,Natural,,2,mining
+AREQUIPA,Quebrada Chiuca,-15.75700442,-72.95401518,Quebrada,1,21,11.64,3.681,Natural,,2,mining
+AREQUIPA,Quebrada 13628,-15.66443907,-72.84145334,Quebrada,1,16,13.68,3.681,Natural,,2,mining
+AREQUIPA,Quebrada Uchucoyoj,-15.64711489,-73.00160966,Quebrada,1,11,12.03,3.681,Natural,,2,mining
+AREQUIPA,Quebrada Piñog,-15.64539023,-72.81053472,Quebrada,1,11,12.52,0.824,Natural,,2,mining
+AREQUIPA,Río Ocoña,-15.623774,-73.07710468,Río,1,7,12.54,3.681,Natural,,2,mining
+AREQUIPA,Quebrada 13652,-15.59084176,-73.10881212,Quebrada,1,4,10.89,3.681,Natural,,1,mining
+AREQUIPA,Río Ocoña,-15.58930152,-73.09442302,Río,1,5,11.95,3.681,Natural,,1,mining
+AREQUIPA,Quebrada 13654,-15.58482728,-73.11620926,Quebrada,1,4,11.36,3.681,Natural,,1,mining
+AREQUIPA,Río Ocoña,-15.57959032,-73.10460252,Río,1,4,10.96,3.681,Natural,,1,mining
+AREQUIPA,Río Ocoña,-15.57432691,-73.11347813,Río,1,4,11.52,1.732,Natural,,1,mining
+AREQUIPA,Río Chichas,-15.55752296,-73.0482721,Río,1,5,11.31,1.732,Natural,,1,mining
+AREQUIPA,Río Marán,-15.52414918,-73.19153898,Río,1,6,15.5,0.958,Natural,,2,mining
+AREQUIPA,Río Arma,-15.50000006,-72.82572641,Río,1,3,13.25,0.328,Natural,,1,mining
+AREQUIPA,Río Jellamayo,-15.48561743,-72.95312439,Río,1,4,17.54,1.732,Natural,,1,mining
+AREQUIPA,Quebrada Challhuamayo,-15.429467,-73.34327962,Quebrada,1,5,8.89,0.661,Natural,,1,mining
+AREQUIPA,Río Marán,-15.42400033,-73.25368144,Río,1,6,11.48,0.661,Natural,,2,mining
+AREQUIPA,Quebrada Mollisniyocc,-15.40732928,-73.17467866,Quebrada,1,6,13.13,1.237,Natural,,2,mining
+AREQUIPA,Río Cotahuasi,-15.38236236,-73.07774735,Río,1,3,8.92,0.958,Natural,,1,mining
+AREQUIPA,Quebrada Masma,-15.34123716,-73.2484552,Quebrada,1,8,13.15,4.194,Natural,,2,mining
+AREQUIPA,Río Ocoña,-15.9655485,-73.15071145,Río,1,20,10.68,6.701,Natural,,2,mining
+AREQUIPA,Quebrada Saca de Posco,-15.94140053,-73.2057052,Quebrada,1,17,10.68,16.052,Natural,,2,mining
+AREQUIPA,Río Ocoña,-15.79957882,-73.0816875,Río,1,23,14.07,3.681,Natural,,2,mining
+AREQUIPA,Río Ocoña,-15.7061926,-73.08120649,Río,1,12,15.39,3.681,Natural,,2,mining
+AREQUIPA,Quebrada Laigua,-15.6981657,-73.16252568,Quebrada,1,7,17.18,3.681,Natural,,2,mining
+AREQUIPA,Río Huarcaya,-15.14900582,-72.81254683,Río,1,6,13.17,2.03,Natural,,2,mining
+AREQUIPA,Río Pampamarca,-14.99055968,-72.92174325,Río,1,6,10.02,1.47,Natural,,2,mining
+AREQUIPA,Río Jarhuayoc,-14.89335828,-72.80151819,Río,1,5,15.6,2.03,Natural,,1,mining
+AREQUIPA,Río Maqueruyo,-15.19050628,-71.26928255,Río,0,0,,1.237,Natural,,0,
+AREQUIPA,Río Chalhuanca,-15.11797697,-71.45513092,Río,0,0,,1.237,Natural,,0,
+AREQUIPA,Río Sillque,-15.35147958,-72.08019974,Río,1,8,12.39,0.743,Natural,,2,mining
+AREQUIPA,Río Molloco,-15.32401971,-71.97812961,Río,1,4,19.39,2.217,Natural,,1,mining
+AREQUIPA,Río Huaytamayo,-15.27265196,-72.13539082,Río,1,9,15.0,1.395,Natural,,2,mining
+AREQUIPA,Río Molloco,-15.25971941,-72.04469165,Río,1,3,18.61,0.743,Natural,,1,mining
+AREQUIPA,Río Ajaña,-15.20809591,-71.99661373,Río,1,6,16.83,0.743,Natural,,2,mining
+AREQUIPA,Río Illigua,-15.2036747,-72.0704512,Río,1,3,15.9,1.395,Natural,,1,mining
+AREQUIPA,Río Apurímac,-15.17297794,-71.69204468,Río,1,8,16.2,2.99,Natural,,2,mining
+AREQUIPA,Río Llactatuyo,-15.1193741,-71.95894675,Río,1,7,13.89,1.395,Natural,,2,mining
+AREQUIPA,Río Canllayocmayo,-15.06753866,-72.10211312,Río,1,3,12.86,1.395,Natural,,1,mining
+AYACUCHO,Quebrada de Chala,-15.59777822,-74.05797071,Quebrada,1,14,12.3,4.832,Natural,,2,mining
+AYACUCHO,Quebrada Acaville,-15.3709164,-74.17818227,Quebrada,1,9,13.16,4.832,Natural,,2,mining
+AYACUCHO,Quebrada Ullacha Grande,-15.37013635,-73.54820848,Quebrada,1,1,14.19,3.154,Natural,,1,mining
+AYACUCHO,Quebrada Calera,-15.35211165,-73.61826849,Quebrada,0,0,,3.154,Natural,,0,
+AYACUCHO,Quebrada Angostura,-15.32626073,-73.56548459,Quebrada,1,1,19.38,3.154,Natural,,1,mining
+AYACUCHO,Río Pochjoya,-15.29449489,-73.55342024,Río,0,0,,3.154,Natural,,0,
+AYACUCHO,Río Lampalla,-15.28433653,-74.29380702,Río,1,9,10.27,3.182,Natural,,2,mining
+AYACUCHO,Río Pongomayo,-15.24522869,-73.62283951,Río,1,1,19.38,3.154,Natural,,1,mining
+AYACUCHO,Río Tampa,-15.22876491,-73.81487806,Río,1,1,12.84,4.832,Natural,,1,mining
+AYACUCHO,Río Lampalla,-15.1990997,-74.04023788,Río,1,1,19.45,4.832,Natural,,1,mining
+AYACUCHO,Río Tambillos,-15.18356661,-73.54462182,Río,1,1,17.69,3.154,Natural,,1,mining
+AYACUCHO,Río Saigua,-15.16158886,-73.61050031,Río,1,1,11.23,3.154,Natural,,1,mining
+AYACUCHO,Río Vado,-15.14432156,-73.55078109,Río,1,1,14.52,6.203,Natural,,1,mining
+AYACUCHO,Quebrada Quisuar,-15.11487409,-73.50124306,Quebrada,1,2,18.69,6.203,Natural,,1,mining
+AYACUCHO,Quebrada Languire,-15.11224323,-74.23095159,Quebrada,1,1,5.06,3.182,Natural,,1,mining
+AYACUCHO,Río Vado,-15.09443493,-73.54655559,Río,1,1,12.99,5.164,Natural,,1,mining
+AYACUCHO,Río Paralmayoc,-15.05398036,-74.07481448,Río,1,2,18.03,3.182,Natural,,1,mining
+AYACUCHO,Río Breamayo,-15.034605,-73.64907851,Río,1,1,4.95,9.149,Natural,,1,mining
+AYACUCHO,Río Chuspiri,-14.95890637,-73.5925842,Río,1,1,15.22,9.149,Natural,,1,mining
+AYACUCHO,Río Acarí,-14.94766799,-74.23009582,Río,1,1,19.63,3.306,Natural,,1,mining
+AYACUCHO,Río Pacchichaca,-14.94563911,-73.51312385,Río,0,0,,1.852,Natural,,0,
+AYACUCHO,Quebrada Marainiyoj,-14.93510159,-74.34513477,Quebrada,1,3,16.7,1.343,Natural,,1,mining
+AYACUCHO,Río Sangarara,-14.92158583,-73.84055985,Río,1,5,12.32,9.149,Natural,,1,mining
+AYACUCHO,Río Marán,-15.38902623,-73.28057211,Río,1,7,11.95,12.914,Natural,,2,mining
+AYACUCHO,Río Marán,-15.32305974,-73.28161419,Río,1,7,12.55,12.914,Natural,,2,mining
+AYACUCHO,Río Huacsapallcca,-14.81617088,-73.65268826,Río,1,1,12.65,1.852,Natural,,1,mining
+AYACUCHO,Río Acarí,-14.71456894,-73.9892425,Río,1,13,9.62,17.65,Natural,,2,mining
+AYACUCHO,Río Horay Homa,-14.71168649,-73.57673182,Río,1,1,17.01,9.149,Natural,,1,mining
+AYACUCHO,Río San José,-14.6494744,-74.22744228,Río,1,6,12.26,1.984,Natural,,2,mining
+AYACUCHO,Quebrada Ingenio,-14.56280245,-74.85562418,Quebrada,1,21,13.75,2.201,Natural,,2,mining
+AYACUCHO,Río Pallpo,-14.49982157,-74.37807152,Río,1,3,13.22,1.984,Natural,,1,mining
+AYACUCHO,Río Vizcas,-14.40870098,-74.94993655,Río,1,13,15.77,2.286,Natural,,2,mining
+AYACUCHO,Río Iruro,-14.40029351,-74.27352725,Río,1,2,17.21,1.984,Natural,,1,mining
+AYACUCHO,Río Sondondo,-14.34489507,-73.89676705,Río,1,4,13.52,1.824,Natural,,1,mining
+AYACUCHO,Río Chicha,-14.15505927,-73.56931226,Río,1,2,17.79,2.345,Natural,,1,mining
+AYACUCHO,Río Caracha,-14.01972466,-74.45679533,Río,1,1,14.29,2.312,Natural,,1,mining
+AYACUCHO,Río Pampas,-13.84581775,-73.80294006,Río,1,2,7.35,7.324,Natural,,1,mining
+AYACUCHO,Río Pampas,-13.72252698,-73.99967383,Río,1,1,9.48,14.466,Natural,,1,mining
+AYACUCHO,Río Pampas,-13.5732566,-74.68379694,Río,1,1,13.46,5.192,Natural,,1,mining
+AYACUCHO,Río Grande,-14.12748929,-75.05501663,Río,1,8,13.89,4.27,Natural,,2,mining
+AYACUCHO,Río Huancahuanca,-15.26603907,-73.301361,Río,1,7,13.84,1.491,Natural,,2,mining
+AYACUCHO,Río Mirmaca,-15.23347401,-73.43118057,Río,1,3,15.45,4.54,Natural,,1,mining
+AYACUCHO,Río Huancahuanca,-15.07859869,-73.33189622,Río,1,6,14.5,2.502,Natural,,2,mining
+AYACUCHO,Río Oyolo,-15.0544591,-73.14618715,Río,1,4,16.63,2.028,Natural,,1,mining
+AYACUCHO,Río Calpamayo,-14.88471602,-73.41078781,Río,1,3,19.01,1.836,Natural,,1,mining
+AYACUCHO,Río Calpamayo,-14.85752545,-73.4471989,Río,0,0,,1.852,Natural,,0,
+AYACUCHO,Río Calpamayo,-14.83196555,-73.49704826,Río,0,0,,1.852,Natural,,0,
+AYACUCHO,Río Pallancata,-14.78927312,-73.13289278,Río,1,6,12.81,1.836,Natural,,2,mining
+AYACUCHO,Río Pampas,-13.38292922,-73.5096364,Río,0,0,,1.728,Natural,,0,
+AYACUCHO,Río Apurímac,-12.97484128,-73.51084086,Río,0,0,,7.113,Natural,,0,
+AYACUCHO,Río Huarpa,-13.19423742,-74.38313907,Río,1,1,7.89,22.703,Natural,,1,mining
+AYACUCHO,Río Chunchubamba,-12.97135055,-73.65760179,Río,0,0,,14.441,Natural,,0,
+AYACUCHO,Río Piene,-12.73545849,-73.96914651,Río,1,1,18.27,12.148,Natural,,1,mining
+AYACUCHO,Río Chuimacota,-12.49305703,-74.0840267,Río,0,0,,12.148,Natural,,0,
+AYACUCHO,Río Mantaro,-12.3751409,-74.54842947,Río,1,2,17.83,3.061,Natural,,1,mining
+AYACUCHO,Río Apurímac,-12.3329697,-73.9669076,Río,0,0,,16.978,Natural,,0,
+AYACUCHO,Río Torobamba,-13.02119257,-73.96984941,Río,1,1,17.78,30.881,Natural,,1,mining
+CAJAMARCA,Quebrada Chausis,-7.343855594,-79.05949433,Quebrada,1,3,9.44,4.77,Natural,,1,mining
+CAJAMARCA,Río Jequetepeque,-7.219438725,-79.0537375,Río,1,5,12.68,11.868,Natural,,1,mining
+CAJAMARCA,Río Jequetepeque,-7.191679168,-78.96536164,Río,1,7,12.45,11.868,Natural,,2,mining
+CAJAMARCA,Río Loco de Chamán,-7.135286266,-79.23344716,Río,0,0,,6.788,Natural,,0,
+CAJAMARCA,Río San José,-7.123548314,-79.11617301,Río,1,2,14.3,6.788,Natural,,1,mining
+CAJAMARCA,Río Pallac,-7.079910217,-79.01485156,Río,1,2,8.44,16.728,Natural,,1,mining
+CAJAMARCA,Quebrada San Gregorio,-7.072361115,-79.14187645,Quebrada,1,1,15.54,6.788,Natural,,1,mining
+CAJAMARCA,Quebrada Perol,-7.057038734,-79.27687261,Quebrada,0,0,,3.606,Natural,,0,
+CAJAMARCA,Río De Nanchoc,-6.964463721,-79.24157776,Río,0,0,,3.606,Natural,,0,
+CAJAMARCA,Río Las Argollas,-6.929107151,-79.05741431,Río,1,3,14.8,18.507,Natural,,1,mining
+CAJAMARCA,Río Zaña,-6.920275105,-79.00090655,Río,1,4,11.51,12.058,Natural,,1,mining
+CAJAMARCA,Río Zaña,-6.861737905,-79.14748231,Río,1,1,19.88,36.489,Natural,,1,mining
+CAJAMARCA,Quebrada La Cárcel,-6.808125359,-79.10625176,Quebrada,1,3,17.1,16.714,Natural,,1,mining
+CAJAMARCA,Río Chancay,-6.640740896,-79.32931825,Río,1,3,17.82,14.822,Natural,,1,mining
+CAJAMARCA,Río Chancay,-6.632995125,-79.13205755,Río,1,1,6.03,14.822,Natural,,1,mining
+CAJAMARCA,Quebrada Magin,-6.560834454,-79.30209824,Quebrada,0,0,,4.537,Natural,,0,
+CAJAMARCA,Río Maichil,-6.508254151,-79.17503832,Río,1,2,17.51,14.822,Natural,,1,mining
+CAJAMARCA,Río Chamaya,-5.668709861,-79.38271116,Río,1,2,9.39,20.554,Natural,,1,mining
+CAJAMARCA,Río Chinchipe,-5.15548637,-78.92007445,Río,1,2,16.92,113.286,Natural,,2,"mining, urban"
+CAJAMARCA,Río Jequetepeque,-7.243907128,-79.15123029,Río,1,2,16.35,11.868,Natural,,1,mining
+CAJAMARCA,Río Chuquillanqui,-7.513855063,-78.45267232,Río,1,3,12.27,12.26,Natural,,1,mining
+CAJAMARCA,Río Santanero,-7.490180728,-78.89816264,Río,1,1,18.54,7.138,Natural,,1,mining
+CAJAMARCA,Río Contumaza,-7.32374771,-78.86747005,Río,1,5,10.97,14.943,Natural,,1,mining
+CAJAMARCA,Río Crisnejas,-7.315451926,-78.24018984,Río,1,1,13.19,88.851,Natural,,1,"mining, urban"
+CAJAMARCA,Río Chilete,-7.244533805,-78.68654334,Río,1,3,17.18,23.477,Natural,,1,mining
+CAJAMARCA,Río Chilete,-7.216621004,-78.91319955,Río,1,7,12.06,26.788,Natural,,2,mining
+CAJAMARCA,Río Cañad,-6.734332359,-78.90295474,Río,1,5,15.34,22.362,Natural,,1,mining
+CAJAMARCA,Río Chancay,-6.696766029,-78.82295008,Río,1,6,17.68,14.186,Natural,,2,mining
+CAJAMARCA,Río Marañón,-6.493427613,-78.17391207,Río,0,0,,12.352,Natural,,0,
+CAJAMARCA,Río Chicama,-7.64189902,-78.95142207,Río,0,0,,7.138,Natural,,0,
+CAJAMARCA,Río Chilete,-7.314112555,-78.41746172,Río,1,1,9.54,55.236,Natural,,1,"mining, urban"
+CAJAMARCA,Río San Miguel,-7.015646703,-78.74418199,Río,1,6,13.56,14.914,Natural,,2,mining
+CAJAMARCA,Río Marañón,-7.409221384,-77.7850016,Río,1,1,7.7,14.586,Natural,,1,mining
+CAJAMARCA,Río Marañón,-5.528854288,-78.55186976,Río,1,1,12.44,18.367,Natural,,1,mining
+CUSCO,Río Negrillo,-15.32671028,-71.02877988,Río,0,0,,1.555,Natural,,0,
+CUSCO,Río Vilcanota,-13.20108278,-72.45234307,Río,0,0,,16.337,Natural,,0,
+CUSCO,Río  Sacsara,-13.27796084,-72.6448671,Río,0,0,,5.138,Natural,,0,
+CUSCO,Río Urubamba,-11.93454605,-72.92999936,Río,0,0,,0.806,Natural,,0,
+CUSCO,Río Urubamba,-11.4509063,-73.05402733,Río,0,0,,0.806,Natural,,0,
+CUSCO,Río Apurímac,-13.27282544,-73.34965623,Río,0,0,,6.553,Natural,,0,
+CUSCO,Río Río Pampaconas,-13.1346558,-73.24539224,Río,0,0,,5.451,Natural,,0,
+CUSCO,Río Urubamba,-12.61964919,-72.81825541,Río,0,0,,2.511,Natural,,0,
+CUSCO,Río Picha,-12.03268268,-73.21229064,Río,0,0,,0.806,Natural,,0,
+CUSCO,Río Vilcanota,-12.77833718,-72.61303583,Río,1,1,7.7,2.511,Natural,,1,mining
+CUSCO,Río Vilcabamba,-13.04445126,-72.85134511,Río,1,5,18.19,4.176,Natural,,1,mining
+CUSCO,Río Cushireni,-12.92266889,-73.17248433,Río,0,0,,4.176,Natural,,0,
+CUSCO,Río Cumpirusiato,-12.74372053,-73.36591382,Río,0,0,,1.965,Natural,,0,
+CUSCO,Río Vilcanota,-13.05795842,-72.62527173,Río,0,0,,10.124,Natural,,0,
+CUSCO,Río Urubamba,-12.63651865,-73.07512354,Río,0,0,,2.511,Natural,,0,
+CUSCO,Río Urubamba,-12.48605395,-72.99079042,Río,0,0,,2.511,Natural,,0,
+CUSCO,Río Apurímac,-12.66859992,-73.70824046,Río,0,0,,26.545,Natural,,0,
+CUSCO,Río Apurímac,-12.47392981,-73.86199708,Río,0,0,,46.862,Natural,,1,urban
+CUSCO,Río Apurímac,-14.37563205,-71.49587871,Río,1,2,17.06,17.097,Natural,,1,mining
+CUSCO,Río Salcca,-14.04222362,-70.99937818,Río,0,0,,5.626,Natural,,0,
+CUSCO,Río Salado,-14.93829061,-71.19209088,Río,1,3,11.06,2.466,Natural,,1,mining
+CUSCO,Río Vilcanota,-14.33753805,-71.27102682,Río,1,1,19.37,11.764,Natural,,1,mining
+CUSCO,Río Vilcanota,-14.06008889,-71.447392,Río,1,1,18.46,5.626,Natural,,1,mining
+CUSCO,Río Apurímac,-14.73072387,-71.46445903,Río,1,4,13.28,54.539,Natural,,1,"mining, urban, quimic"
+CUSCO,Río Apurímac,-14.84660695,-71.49451312,Río,1,6,10.03,5.746,Natural,,2,mining
+CUSCO,Quebrada Tarucuyo,-14.89308626,-71.74188104,Río,0,0,,5.746,Natural,,0,
+CUSCO,Río Velille,-14.47487921,-71.90314877,Río,1,8,12.98,14.972,Natural,,2,mining
+CUSCO,Río Santo Tomás,-14.32580882,-72.10125914,Río,1,9,14.69,16.075,Natural,,2,mining
+CUSCO,Río Apurímac,-13.76881196,-72.01658332,Río,0,0,,9.201,Natural,,0,
+CUSCO,Río Vilcanota,-13.54420413,-71.737397,Río,1,1,9.62,48.67,Natural,,1,mining
+CUSCO,Río Yavero,-12.90851366,-71.90639469,Río,1,2,11.08,4.702,Natural,,1,mining
+CUSCO,Río Huarocondo,-13.45962382,-72.14248734,Río,1,1,9.19,142.203,Natural,,2,"mining, urban"
+CUSCO,Río Yanatile,-12.81188152,-72.1612517,Río,1,2,12.12,4.702,Natural,,1,mining
+CUSCO,Río Oquero,-14.77250666,-71.6811415,Río,1,3,16.86,5.746,Natural,,1,mining
+CUSCO,Río Livitaca,-14.34964688,-71.65881555,Río,1,8,13.66,13.426,Natural,,2,mining
+CUSCO,Río Pitumarca,-13.92623559,-71.27045506,Río,0,0,,7.978,Natural,,0,
+CUSCO,Río Apurímac,-13.91735723,-71.7804134,Río,1,1,14.09,13.441,Natural,,1,mining
+CUSCO,Río Araza,-13.30601704,-70.80692676,Río,1,9,13.55,0.893,Natural,,2,mining
+HUANCAVELICA,Río Huaytara,-13.60567705,-75.40847636,Río,1,3,6.09,2.445,Natural,,1,mining
+HUANCAVELICA,Río San Juan,-13.36352644,-75.74805249,Río,1,1,18.95,1.846,Natural,,1,mining
+HUANCAVELICA,Río Pisco,-13.30729807,-75.40073981,Río,1,2,12.22,5.544,Natural,,1,mining
+HUANCAVELICA,Río Huachos,-13.13161031,-75.51464567,Río,0,0,,3.467,Natural,,0,
+HUANCAVELICA,Río San Juan,-13.08406793,-75.657163,Río,1,3,13.91,9.599,Natural,,1,mining
+HUANCAVELICA,Río Santiago,-13.80560353,-75.21430488,Río,1,1,19.88,1.262,Natural,,1,mining
+HUANCAVELICA,Río Tambo,-13.63474178,-75.22231882,Río,1,1,14.53,3.563,Natural,,1,mining
+HUANCAVELICA,Río San Juan,-12.97123737,-75.44476584,Río,1,2,16.58,3.525,Natural,,1,mining
+HUANCAVELICA,Río Colcabamba,-12.89826897,-75.52964988,Río,0,0,,2.238,Natural,,0,
+HUANCAVELICA,Río Santuario,-13.31819833,-75.32139741,Río,1,4,15.6,3.673,Natural,,1,mining
+HUANCAVELICA,Río Santa Ana,-13.07147648,-75.15195965,Río,1,8,16.33,1.169,Natural,,2,mining
+HUANCAVELICA,Quebrada Incachaca,-12.9680815,-75.23789484,Quebrada,1,3,7.2,3.673,Natural,,1,mining
+HUANCAVELICA,Río Ichu,-12.7785686,-74.91928207,Río,1,5,10.02,78.765,Natural,,1,"mining, urban, quimic"
+HUANCAVELICA,Río Vilca,-12.67644166,-75.21858465,Río,1,1,17.7,2.023,Natural,,1,mining
+HUANCAVELICA,Río Mantaro,-12.63660978,-74.64162969,Río,1,3,11.54,23.782,Natural,,1,mining
+HUANCAVELICA,Río Mantaro,-12.45032683,-75.021775,Río,1,3,10.07,17.405,Natural,,1,mining
+HUANCAVELICA,Río Pisco,-13.10596578,-75.311959,Río,1,5,14.94,3.673,Natural,,1,mining
+HUANCAVELICA,Río Huaytara,-13.37821426,-75.20706532,Río,1,2,7.14,1.518,Natural,,1,mining
+HUANCAVELICA,Río Pampas,-13.16781963,-75.06965636,Río,1,6,15.09,1.169,Natural,,2,mining
+HUANCAVELICA,Río Ichu,-12.95800783,-75.09771379,Río,1,4,15.78,1.169,Natural,,1,mining
+HUANUCO,Río Marañón,-10.24725456,-76.64814918,Río,1,3,18.65,5.805,Natural,,1,mining
+HUANUCO,Río Monzón,-9.240393221,-76.32561255,Río,0,0,,7.917,Natural,,0,
+HUANUCO,Río Vizcarra,-9.860153668,-76.86866352,Río,1,7,17.7,40.329,Natural,,2,mining
+HUANUCO,Río Huallaga,-9.816489214,-76.00252825,Río,0,0,,14.089,Natural,,0,
+HUANUCO,Río Marañón,-9.823756,-76.64435374,Río,1,5,12.83,24.845,Natural,,1,mining
+HUANUCO,Río Marañón,-9.341016613,-76.74829659,Río,1,3,8.12,5.544,Natural,,1,mining
+HUANUCO,Río Huallaga,-9.364724518,-75.97960439,Río,1,1,8.95,15.587,Natural,,1,mining
+HUANUCO,Río Marañón,-8.991661255,-77.06381127,Río,0,0,,20.54,Natural,,0,
+HUANUCO,Río Chontayacu,-8.616439291,-76.71399814,Río,0,0,,2.783,Natural,,0,
+HUANUCO,Río Huallaga,-8.849111958,-76.14473687,Río,0,0,,16.009,Natural,,0,
+HUANUCO,Río Santa Cruz,-10.23184441,-75.80782247,Río,0,0,,11.088,Natural,,0,
+HUANUCO,Río Pozuzo,-9.806109322,-75.36653598,Río,0,0,,2.626,Natural,,0,
+HUANUCO,Río Pachitea,-9.64798252,-74.94283557,Río,1,1,10.45,3.204,Natural,,1,mining
+HUANUCO,Río Sungaroyacu,-9.484318112,-75.26999366,Río,0,0,,2.626,Natural,,0,
+HUANUCO,Río Pachitea,-9.024830894,-74.79211761,Río,0,0,,3.795,Natural,,0,
+ICA,Río Nasca,-14.97446458,-74.79901509,Río,1,24,12.78,49.203,Natural,agricultural,2,mining
+ICA,Río Ica,-14.60152944,-75.61146746,Río,0,0,,12.954,Natural,natural,0,
+ICA,Río Ica,-14.28095438,-75.69122875,Río,1,1,14.55,12.954,Natural,agricultural,1,mining
+ICA,Quebrada Tingue,-14.18299448,-75.40975985,Quebrada,1,15,10.3,1.4,Natural,natural,2,mining
+ICA,Río Cocharcas,-14.0565245,-75.42461762,Río,1,18,13.07,1.4,Natural,urban,2,mining
+ICA,Río Seco,-13.87650074,-75.83856203,Río,1,2,18.69,51.293,Natural,agricultural,1,"mining, urban"
+ICA,Río Ica,-13.83644539,-75.54868136,Río,1,5,19.24,27.941,Natural,natural,1,mining
+ICA,Río Pisco,-13.72310661,-75.97403453,Río,1,1,16.32,61.397,Natural,agricultural,1,"mining, urban"
+ICA,Río Pisco,-13.60192909,-75.62830935,Río,1,2,17.09,2.02,Natural,agricultural,1,mining
+ICA,Quebrada Veladero,-13.52031451,-75.65344388,Quebrada,0,0,,2.02,Natural,natural,0,
+ICA,Río Pisco,-13.50602943,-75.48484193,Río,1,5,12.5,2.02,Natural,agricultural,1,mining
+ICA,Río San Juan,-13.40555933,-75.9441937,Río,0,0,,29.007,Natural,natural,0,
+ICA,Quebrada Almacén,-13.24693328,-75.90027277,Quebrada,0,0,,4.832,Natural,natural,0,
+ICA,Quebrada Ayoque,-13.22789228,-75.80241078,Quebrada,1,3,15.41,4.832,Natural,natural,1,mining
+ICA,Quebrada Topará,-13.12717969,-76.06762943,Quebrada,1,2,10.65,8.452,Natural,mining,1,mining
+ICA,Río Ica,-14.03582093,-75.72883845,Río,1,8,13.54,658.263,Natural,urban,2,"mining, urban, quimic"
+ICA,Río Ica,-14.81435909,-75.54029415,Río,0,0,,12.954,Natural,natural,0,
+ICA,Río Grande,-14.93425327,-75.41842838,Río,0,0,,2.532,Natural,agricultural,0,
+ICA,Río Seco,-13.8542458,-76.2170606,Río,0,0,,7.342,Natural,agricultural,0,
+ICA,Río Chico,-13.46449464,-76.1151084,Río,0,0,,241.373,Natural,agricultural,2,urban
+ICA,Río Chico,-13.44741969,-75.98685783,Río,0,0,,29.007,Natural,agricultural,0,
+ICA,Río Grande,-14.79530005,-75.35243585,Río,1,1,12.25,2.532,Natural,agricultural,1,mining
+ICA,Río Grande,-14.70081196,-75.30549359,Río,1,3,11.06,2.532,Natural,agricultural,1,mining
+ICA,Río Grande,-14.6699753,-75.26553233,Río,1,6,14.22,2.532,Natural,agricultural,2,mining
+ICA,Río Grande,-14.61850157,-75.21908376,Río,1,18,15.32,11.334,Natural,agricultural,2,mining
+ICA,Quebrada Gramonal,-14.48512234,-75.3334756,Quebrada,1,11,14.24,12.954,Natural,natural,2,mining
+ICA,Río Santa Cruz,-14.31287013,-75.20681557,Río,1,18,11.99,5.234,Natural,natural,2,mining
+JUNIN,Río Conas,-12.11993124,-75.43832968,Río,0,0,,20.143,Natural,,0,
+JUNIN,Río Pachacayo,-11.97592516,-75.86204489,Río,1,6,11.44,1.702,Natural,,2,mining
+JUNIN,Río Yauli,-11.65878468,-76.07178936,Río,1,31,13.1,12.751,Natural,,2,mining
+JUNIN,Río Conocancha,-11.20382062,-76.27295258,Río,1,13,12.43,1.217,Natural,,2,mining
+JUNIN,Río Mantaro,-11.40175278,-76.05791736,Río,1,4,13.3,4.736,Natural,,1,mining
+JUNIN,Río Mantaro,-11.64226456,-75.81191592,Río,1,5,10.87,33.29,Natural,,2,mining
+JUNIN,Río Mantaro,-12.23325414,-75.21320532,Río,0,0,,15.427,Natural,,0,
+JUNIN,Río Ene,-12.09809967,-74.06572254,Río,0,0,,2.911,Natural,,0,
+JUNIN,Río Ene,-11.90432714,-73.95543078,Río,0,0,,15.708,Natural,,0,
+JUNIN,Río Mantaro,-11.8619996,-75.40829759,Río,1,7,11.74,73.772,Natural,,2,"mining, urban, quimic"
+JUNIN,Río Anapatí,-11.74862835,-74.31330679,Río,0,0,,15.708,Natural,,0,
+JUNIN,Río Ene,-11.54003417,-74.07562102,Río,0,0,,35.533,Natural,,1,urban
+JUNIN,Quebrada Poyeni,-11.45496027,-73.58489635,Quebrada,0,0,,2.911,Natural,,0,
+JUNIN,Río Tambo,-11.19992282,-73.95737675,Río,0,0,,2.911,Natural,,0,
+JUNIN,Río Tambo,-10.99062148,-73.7552444,Río,0,0,,2.911,Natural,,0,
+JUNIN,Río Perené,-10.96851695,-74.78891983,Río,1,1,18.33,36.097,Natural,,1,mining
+JUNIN,Río Cutivireni,-11.96700281,-73.67462945,Río,0,0,,2.911,Natural,,0,
+JUNIN,Quebrada Puente Paloma,-11.45634448,-75.18115198,Quebrada,1,1,16.77,2.094,Natural,,1,mining
+JUNIN,Río Pangoa,-11.48893165,-74.42680068,Río,0,0,,15.708,Natural,,0,
+JUNIN,Río Oxabamba,-10.96087716,-75.61866989,Río,1,7,12.2,3.17,Natural,,2,mining
+JUNIN,Río Palca,-11.35445932,-75.61420378,Río,1,39,13.46,82.441,Natural,,2,"mining, urban, quimic"
+JUNIN,Quebrada Apulima,-11.11850679,-75.3609068,Quebrada,1,12,12.35,47.834,Natural,,2,mining
+JUNIN,Río Perené,-11.1635751,-74.26629961,Río,0,0,,35.533,Natural,,1,urban
+JUNIN,Río Chanchamayo,-11.03408773,-75.31739093,Río,1,7,15.59,39.723,Natural,,2,mining
+LA LIBERTAD,Río Santa,-8.697535124,-78.3822833,Río,1,1,5.5,29.131,Natural,,1,mining
+LA LIBERTAD,Quebrada Pampa Colorada,-8.635416667,-78.62708333,Quebrada,1,1,12.87,29.131,Natural,,1,mining
+LA LIBERTAD,Río Huamansaña,-8.611567644,-78.73604897,Río,0,0,,29.131,Natural,,0,
+LA LIBERTAD,Río Huamansaña,-8.600088567,-78.7146125,Río,0,0,,29.131,Natural,,0,
+LA LIBERTAD,Quebrada Palo Redondo,-8.549503223,-78.37069215,Quebrada,1,1,11.11,29.131,Natural,,1,mining
+LA LIBERTAD,Río Huamansaña,-8.535402692,-78.66037596,Río,1,1,17.3,29.131,Natural,,1,mining
+LA LIBERTAD,Río Huamansaña,-8.48737694,-78.4421698,Río,1,4,16.09,29.131,Natural,,1,mining
+LA LIBERTAD,Río Huamansaña,-8.480153872,-78.59220942,Río,1,1,7.63,29.131,Natural,,1,mining
+LA LIBERTAD,Quebrada Tucumaca,-8.45174097,-78.52866676,Quebrada,1,2,7.68,29.131,Natural,,1,mining
+LA LIBERTAD,Río Chao,-8.445319297,-78.56388849,Río,1,2,9.6,29.131,Natural,,1,mining
+LA LIBERTAD,Río Virú,-8.424340193,-78.7974063,Río,0,0,,61.856,Natural,,1,urban
+LA LIBERTAD,Río Tutumo,-8.366978125,-78.39741028,Río,1,4,8.85,18.866,Natural,,1,mining
+LA LIBERTAD,Río Virú,-8.356499769,-78.63555344,Río,1,3,17.04,61.856,Natural,,1,"mining, urban, quimic"
+LA LIBERTAD,Río Tablachaca,-8.339776864,-78.109053,Río,1,14,13.48,18.866,Natural,,2,mining
+LA LIBERTAD,Quebrada Pájaro Bobo,-8.291321884,-78.51874596,Quebrada,1,5,13.89,13.971,Natural,,1,mining
+LA LIBERTAD,Río Huacapongo,-8.24539539,-78.56158054,Río,1,3,12.17,28.985,Natural,,1,mining
+LA LIBERTAD,Río Marañón,-8.243794359,-77.53050568,Río,1,3,18.99,46.413,Natural,,1,mining
+LA LIBERTAD,Río Carabamba,-8.238657592,-78.6764858,Río,1,2,10.08,61.856,Natural,,1,"mining, urban"
+LA LIBERTAD,Río La Vega,-8.209526268,-78.39582458,Río,1,6,15.04,13.971,Natural,,2,mining
+LA LIBERTAD,Río La Vega,-8.201742342,-78.5022972,Río,1,4,15.56,13.971,Natural,,1,mining
+LA LIBERTAD,Río Palomeque,-8.138049977,-78.50256646,Río,1,6,17.3,55.783,Natural,,2,"mining, urban, quimic"
+LA LIBERTAD,Río Pacchachaca,-8.109748434,-78.4275378,Río,1,9,17.02,24.379,Natural,,2,mining
+LA LIBERTAD,Río Moche,-8.101969478,-78.92942176,Río,0,0,,109.146,Natural,,2,urban
+LA LIBERTAD,Río Moche,-8.017508248,-78.8323429,Río,0,0,,109.146,Natural,,2,urban
+LA LIBERTAD,Río Moche,-8.008193988,-78.39875222,Río,1,15,12.48,55.783,Natural,,2,"mining, urban, quimic"
+LA LIBERTAD,Río Moche,-7.99886698,-78.6902411,Río,1,5,14.1,33.423,Natural,,2,mining
+LA LIBERTAD,Río Motil,-7.963541549,-78.42579398,Río,1,15,11.59,40.23,Natural,,2,mining
+LA LIBERTAD,Río Moche,-7.959295904,-78.5422709,Río,1,12,12.03,40.23,Natural,,2,mining
+LA LIBERTAD,Quebrada Catuay,-7.956374211,-78.88110332,Quebrada,0,0,,15.301,Natural,,0,
+LA LIBERTAD,Río Sinsicap,-7.875419092,-78.77196141,Río,1,4,14.28,16.081,Natural,,1,mining
+LA LIBERTAD,Río Otuzco,-7.857612438,-78.49277358,Río,1,14,12.82,67.26,Natural,,2,"mining, urban, quimic"
+LA LIBERTAD,Río Huancay,-7.761701247,-78.47144636,Río,1,10,15.15,47.049,Natural,,2,mining
+LA LIBERTAD,Río Chicama,-7.777503267,-79.1457058,Río,0,0,,45.189,Natural,,1,urban
+LA LIBERTAD,Río Quirripano,-7.712548274,-78.81850311,Río,1,2,10.99,16.081,Natural,,1,mining
+LA LIBERTAD,Río Huamansaña,-8.355144206,-78.29557954,Río,1,6,14.5,18.866,Natural,,2,mining
+LA LIBERTAD,Quebrada Palo Redondo,-8.698956569,-78.50557877,Quebrada,1,2,9.04,29.131,Natural,,1,mining
+LA LIBERTAD,Río Chusgón,-7.734362877,-77.87233236,Río,1,4,14.95,60.29,Natural,,1,"mining, urban, quimic"
+LA LIBERTAD,Río Mishollo,-8.145668372,-76.93224365,Río,0,0,,1.126,Natural,,0,
+LA LIBERTAD,Río Chao,-8.59683484,-78.71614858,Río,0,0,,29.131,Natural,,0,
+LA LIBERTAD,Río Huamansaña,-8.606123788,-78.72029763,Río,0,0,,29.131,Natural,,0,
+LA LIBERTAD,Río Jequetepeque,-7.326198968,-79.39191626,Río,0,0,,268.912,Natural,,2,urban
+LA LIBERTAD,Río Chamán,-7.182011528,-79.42268803,Río,0,0,,43.813,Natural,,1,urban
+LA LIBERTAD,Río Chamán,-7.179870432,-79.62114701,Río,0,0,,47.249,Natural,,1,urban
+LA LIBERTAD,Río Seco,-7.068058775,-79.45415078,Río,0,0,,43.813,Natural,,1,urban
+LA LIBERTAD,Río Chicama,-7.592942036,-78.87699228,Río,1,1,19.97,31.107,Natural,,1,mining
+LA LIBERTAD,Río Chicama,-7.555477989,-78.75349065,Río,1,3,15.55,31.107,Natural,,1,mining
+LA LIBERTAD,Río Ochape,-7.476340823,-78.74980397,Río,1,1,7.33,31.107,Natural,,1,mining
+LA LIBERTAD,Río Chuquillanqui,-7.565769529,-78.65662469,Río,1,3,12.92,31.107,Natural,,1,mining
+LAMBAYEQUE,Río Zaña,-6.80888995,-79.28949798,Río,1,1,19.21,17.583,Natural,,1,mining
+LAMBAYEQUE,Río Motupe,-6.500271502,-80.02047252,Río,0,0,,54.951,Natural,,1,urban
+LAMBAYEQUE,Río Motupe,-6.396118499,-79.82557478,Río,0,0,,31.908,Natural,,1,urban
+LAMBAYEQUE,Río La Leche,-6.376974307,-79.47433,Río,0,0,,40.473,Natural,,1,urban
+LAMBAYEQUE,Río Motupe,-6.336349035,-79.78434499,Río,0,0,,31.908,Natural,,1,urban
+LAMBAYEQUE,Río Salas,-6.296813608,-79.65657554,Río,0,0,,14.786,Natural,,0,
+LAMBAYEQUE,Río Chotoque,-6.258859604,-79.76173984,Río,0,0,,67.149,Natural,,1,urban
+LAMBAYEQUE,Río Motupe,-6.180090548,-79.51661257,Río,1,1,16.45,14.786,Natural,,1,mining
+LAMBAYEQUE,Quebrada Pañala Grande,-6.109123896,-79.86283923,Quebrada,0,0,,10.466,Natural,,0,
+LAMBAYEQUE,Río Motupe,-6.105259944,-79.70316756,Río,1,1,18.6,67.149,Natural,,1,"mining, urban"
+LAMBAYEQUE,Río Chiniama,-6.085331153,-79.58252806,Río,0,0,,14.786,Natural,,0,
+LAMBAYEQUE,Quebrada Pañala La Chica,-5.937498683,-80.13214644,Quebrada,0,0,,10.466,Natural,,0,
+LAMBAYEQUE,Quebrada Montería,-6.743549415,-79.26732531,Quebrada,0,0,,17.583,Natural,,0,
+LAMBAYEQUE,Río Reque,-6.678020481,-79.42310613,Río,1,3,7.98,28.7,Natural,,1,mining
+LAMBAYEQUE,Río Zaña,-6.961042184,-79.61923458,Río,0,0,,26.2,Natural,,0,
+LAMBAYEQUE,Quebrada Examen,-6.94731087,-79.3703404,Quebrada,0,0,,13.178,Natural,,0,
+LAMBAYEQUE,Río Zaña,-6.8779,-79.39684814,Río,1,1,15.45,17.583,Natural,,1,mining
+LAMBAYEQUE,Río Motupe,-6.213970436,-79.72182808,Río,0,0,,67.149,Natural,,1,urban
+LAMBAYEQUE,Río La Leche,-6.459932057,-79.84000398,Río,0,0,,478.907,Natural,,2,urban
+LAMBAYEQUE,Río La Leche,-6.478703977,-79.78036397,Río,0,0,,40.473,Natural,,1,urban
+LAMBAYEQUE,Río Reque,-6.805406898,-79.66057479,Río,0,0,,244.275,Natural,,2,urban
+LAMBAYEQUE,Río Motupe,-6.008635546,-79.58368529,Río,1,1,14.77,14.786,Natural,,1,mining
+LIMA,Río Cañete,-12.97264827,-76.15685446,Río,0,0,,7.997,Natural,,0,
+LIMA,Río Huangascar,-12.92416373,-75.79760416,Río,1,1,14.83,12.285,Natural,,1,mining
+LIMA,Río Cañete,-12.83062843,-75.92080011,Río,0,0,,2.054,Natural,,0,
+LIMA,Río Cacra,-12.79983578,-75.68171054,Río,0,0,,2.676,Natural,,0,
+LIMA,Río Grande,-12.76659585,-76.49923477,Río,1,2,15.92,1.855,Natural,,1,mining
+LIMA,Río Omas,-12.70006553,-76.40712651,Río,1,3,14.2,1.855,Natural,,1,mining
+LIMA,Quebrada Santiago,-12.68908798,-76.27248601,Quebrada,1,2,10.15,0.954,Natural,,1,mining
+LIMA,Quebrada Quelca,-12.67636906,-76.44514303,Quebrada,1,3,14.13,1.855,Natural,,1,mining
+LIMA,Río Omas,-12.64786061,-76.3542417,Río,1,2,3.95,1.855,Natural,,1,mining
+LIMA,Quebrada Iray,-12.62373209,-76.26362923,Quebrada,1,2,8.59,0.954,Natural,,1,mining
+LIMA,Río Cañete,-12.58899915,-75.93752202,Río,0,0,,3.435,Natural,,0,
+LIMA,Quebrada Cumias,-12.58570341,-76.20647659,Quebrada,1,2,15.18,0.954,Natural,,1,mining
+LIMA,Río Omas,-12.57708271,-76.32874619,Río,1,2,5.62,1.855,Natural,,1,mining
+LIMA,Río Huantán,-12.5022771,-75.73713286,Río,1,2,14.67,1.788,Natural,,1,mining
+LIMA,Río Mala,-12.47923991,-76.45018666,Río,1,1,18.14,4.564,Natural,,1,mining
+LIMA,Río Omas,-12.45018534,-76.22713186,Río,0,0,,2.058,Natural,,0,
+LIMA,Quebrada Chilca,-12.38976964,-76.56260257,Quebrada,0,0,,53.095,Natural,,1,urban
+LIMA,Río Quinches,-12.37884661,-76.10127944,Río,0,0,,2.091,Natural,,0,
+LIMA,Río Cañete,-12.34193878,-75.82780695,Río,1,4,13.82,1.064,Natural,,1,mining
+LIMA,Río Alis,-12.28092895,-75.70199279,Río,1,6,13.67,10.31,Natural,,2,mining
+LIMA,Río Mala,-12.25319885,-76.24021489,Río,0,0,,6.23,Natural,,0,
+LIMA,Río Mala,-12.16742276,-76.22222611,Río,0,0,,2.335,Natural,,0,
+LIMA,Río Canchahuara,-12.15704392,-76.40121439,Río,1,1,8.64,6.824,Natural,,1,mining
+LIMA,Río Tantará,-12.15035423,-76.1237557,Río,0,0,,2.335,Natural,,0,
+LIMA,Río San Lorenzo,-12.12821161,-76.22599831,Río,0,0,,4.745,Natural,,0,
+LIMA,Río Lurín,-12.09273417,-76.49028316,Río,1,2,7.53,2.828,Natural,,1,mining
+LIMA,Río Cañete,-12.09266408,-75.86269096,Río,1,5,14.55,1.791,Natural,,1,mining
+LIMA,Río Cañete,-12.40783778,-75.85441666,Río,1,3,18.17,2.212,Natural,,1,mining
+LIMA,Río Cañete,-13.12139908,-76.38358737,Río,1,1,10.34,121.797,Natural,,2,"mining, urban"
+LIMA,Río Lurín,-12.05512845,-76.41871435,Río,1,2,11.71,3.163,Natural,,1,mining
+LIMA,Río Aguaquiri,-12.04612774,-76.19187569,Río,1,2,16.01,2.858,Natural,,1,mining
+LIMA,Río Acacache,-12.04466821,-76.11632368,Río,1,1,15.46,2.254,Natural,,1,mining
+LIMA,Río Rímac,-12.03661245,-77.05488718,Río,0,0,,12436.505,Natural,,2,urban
+LIMA,Quebrada Chamacna,-12.02215247,-76.47878991,Quebrada,1,4,12.65,12.389,Natural,,1,mining
+LIMA,Río San Lorenzo,-11.98943785,-76.22107919,Río,1,3,11.97,2.254,Natural,,1,mining
+LIMA,Río Rímac,-11.98210153,-76.8066076,Río,0,0,,1262.909,Natural,,2,urban
+LIMA,Quebrada Taquia,-11.960165,-76.30081046,Quebrada,1,3,12.23,3.163,Natural,,1,mining
+LIMA,Quebrada Chalilla,-11.9280127,-76.32823835,Quebrada,1,4,14.58,3.163,Natural,,1,mining
+LIMA,Río Chillón,-11.89601659,-77.05818916,Río,0,0,,12254.151,Natural,,2,urban
+LIMA,Río Rímac,-11.88191038,-76.4673438,Río,1,2,9.98,11.802,Natural,,1,mining
+LIMA,Quebrada Jicamarca,-11.87923318,-76.84808382,Quebrada,1,1,17.73,14.698,Natural,,1,mining
+LIMA,Río Blanco,-11.82344774,-76.16643333,Río,1,12,16.15,8.893,Natural,,2,mining
+LIMA,Quebrada Parac,-11.82302634,-76.23401199,Quebrada,1,8,13.72,8.893,Natural,,2,mining
+LIMA,Quebrada Río Seco,-11.76747162,-76.9018817,Quebrada,1,2,15.97,1382.622,Natural,,2,"mining, urban"
+LIMA,Río Rímac,-11.75399769,-76.29437466,Río,1,8,12.87,8.893,Natural,,2,mining
+LIMA,Río Chillón,-11.69364159,-76.84794328,Río,1,3,12.04,13.878,Natural,,1,mining
+LIMA,Río Santa Eulalia,-11.69131176,-76.55499746,Río,0,0,,4.657,Natural,,0,
+LIMA,Río Rímac,-11.66359318,-76.24713571,Río,1,19,11.78,11.806,Natural,,2,mining
+LIMA,Quebrada Socos,-11.58497836,-76.84828937,Quebrada,1,5,15.63,1.689,Natural,,1,mining
+LIMA,Río Quisquichaca,-11.58177846,-76.64936139,Río,1,4,11.11,13.878,Natural,,1,mining
+LIMA,Río Chancay,-11.54884854,-77.19457912,Río,1,4,10.1,31.299,Natural,,1,mining
+LIMA,Quebrada Orcón,-11.48233081,-76.93890581,Quebrada,1,1,11.95,31.299,Natural,,1,mining
+LIMA,Río Chillón,-11.45505514,-76.62211027,Río,1,3,10.62,16.047,Natural,,1,mining
+LIMA,Río Añasmayo,-11.38253662,-76.77941469,Río,1,2,15.61,4.723,Natural,,1,mining
+LIMA,Río Chancay,-11.36917545,-77.02515886,Río,1,2,11.77,170.576,Natural,,2,"mining, urban"
+LIMA,Río Chancay,-11.29453989,-76.84651694,Río,1,2,17.89,4.723,Natural,,1,mining
+LIMA,Río Baños,-11.26697415,-76.55698081,Río,1,13,15.61,2.138,Natural,,2,mining
+LIMA,Río Chancay,-11.25995756,-76.73661321,Río,1,2,18.32,4.289,Natural,,1,mining
+LIMA,Río Lurín,-12.20949018,-76.86975845,Río,0,0,,843.74,Natural,,2,urban
+LIMA,Quebrada Tinajas,-12.12092126,-76.71709179,Quebrada,1,1,15.74,843.74,Natural,,2,"mining, urban"
+LIMA,Río Lurín,-12.02904482,-76.6885796,Río,1,2,15.6,2.828,Natural,,1,mining
+LIMA,Río Chillón,-11.7702571,-76.98205201,Río,0,0,,1382.622,Natural,,2,urban
+LIMA,Río Chillón,-11.71281486,-76.9494691,Río,1,2,16.19,13.878,Natural,,1,mining
+LIMA,Quebrada Gangay,-11.67767105,-76.98587112,Quebrada,1,1,10.63,1.689,Natural,,1,mining
+LIMA,Río Rímac,-12.02420849,-76.95971951,Río,0,0,,17384.292,Natural,,2,urban
+LIMA,Río Chillón,-11.80240657,-76.99445308,Río,0,0,,1382.622,Natural,,2,urban
+LIMA,Río Carac,-11.14388598,-76.78855795,Río,1,2,16.15,2.137,Natural,,1,mining
+LIMA,Río Chancay,-11.1155495,-76.6137058,Río,1,8,11.06,3.412,Natural,,2,mining
+LIMA,Río Huanangue,-11.10686417,-76.99212165,Río,1,3,9.89,4.161,Natural,,1,mining
+LIMA,Río Huaura,-11.10590762,-77.41938205,Río,0,0,,83.638,Natural,,1,urban
+LIMA,Río Huaura,-11.06682412,-77.14057004,Río,1,2,14.87,20.341,Natural,,1,mining
+LIMA,Río Huaura,-10.93691733,-77.02827689,Río,1,2,10.67,6.383,Natural,,1,mining
+LIMA,Río Checras,-10.91840263,-76.73482539,Río,1,2,17.17,2.659,Natural,,1,mining
+LIMA,Río Aynaca,-10.89560116,-77.23741929,Río,0,0,,2.579,Natural,,0,
+LIMA,Río Yarucaya,-10.86194916,-77.09575512,Río,1,1,16.47,3.365,Natural,,1,mining
+LIMA,Río Huaura,-10.85591563,-76.93364254,Río,1,3,18.73,2.804,Natural,,1,mining
+LIMA,Río Ambar,-10.83791148,-77.30517158,Río,1,1,18.63,2.579,Natural,,1,mining
+LIMA,Quebrada Cochaca,-10.80933716,-77.25972237,Quebrada,0,0,,2.579,Natural,,0,
+LIMA,Quebrada Huancoy,-10.79024948,-76.98153923,Quebrada,1,3,12.21,2.804,Natural,,1,mining
+LIMA,Río Ambar,-10.73001613,-77.17842276,Río,1,1,16.85,2.579,Natural,,1,mining
+LIMA,Río Huaura,-10.689908,-76.8132263,Río,1,4,12.92,13.401,Natural,,1,mining
+LIMA,Río Pativilca,-10.67022465,-77.60712577,Río,1,1,19.29,469.092,Natural,,2,"mining, urban"
+LIMA,Río Fortaleza,-10.62711998,-77.79918536,Río,0,0,,51.596,Natural,,1,urban
+LIMA,Río Gorgor,-10.6239029,-77.03243063,Río,1,3,11.73,4.436,Natural,,1,mining
+LIMA,Río Pativilca,-10.57544043,-77.31383793,Río,1,2,15.73,3.297,Natural,,1,mining
+LIMA,Río Rapay,-10.43623722,-77.08145103,Río,1,2,14.66,3.919,Natural,,1,mining
+LIMA,Río Fortaleza,-10.42144151,-77.71817785,Río,1,1,9.75,51.596,Natural,,1,"mining, urban"
+LIMA,Río Supe,-10.85456922,-77.58334899,Río,1,2,10.24,52.103,Natural,,1,"mining, urban"
+LIMA,Quebrada Mesa Redonda,-10.85585668,-77.42540005,Quebrada,1,2,8.22,2.579,Natural,,1,mining
+LIMA,Río Supe,-10.92199684,-77.42286324,Río,1,2,9.04,83.638,Natural,,1,"mining, urban"
+LIMA,Quebrada Río Seco,-10.92041091,-77.32922461,Quebrada,1,1,15.31,20.341,Natural,,1,mining
+LIMA,Río Supe,-10.86834943,-77.35043296,Río,1,2,15.73,2.579,Natural,,1,mining
+LIMA,Río Rapay,-10.44903804,-76.90460211,Río,1,3,16.22,3.363,Natural,,1,mining
+LIMA,Río Huaura,-10.47601761,-76.80598717,Río,1,2,12.68,13.401,Natural,,1,mining
+LIMA,Río Gorgor,-10.52564794,-76.86829369,Río,1,3,16.28,3.363,Natural,,1,mining
+LORETO,Río Putumayo,-2.292899705,-70.83169646,Río,0,0,,0.084,Natural,forest,0,
+LORETO,Río Putumayo,-1.428853233,-73.57309841,Río,0,0,,0.25,Natural,forest,0,
+LORETO,Río Putumayo,-2.228517774,-71.85303838,Río,0,0,,0.404,Natural,forest,0,
+LORETO,Río Yavarí,-4.315194073,-70.0788492,Río,0,0,,0.729,Natural,forest,0,
+LORETO,Río Napo,-0.975057938,-75.2810969,Río,0,0,,0.901,Natural,forest,0,
+LORETO,Río Cushabatay,-7.395058508,-75.71996579,Río,0,0,,0.763,Natural,forest,0,
+LORETO,Río Tapiche,-6.182634273,-74.16720069,Río,0,0,,0.262,Natural,forest,0,
+LORETO,Río Gálvez,-5.441027486,-73.38964572,Río,0,0,,0.189,Natural,forest,0,
+LORETO,Río Yaquirana,-6.172903582,-73.22514004,Río,0,0,,0.189,Natural,forest,0,
+LORETO,Río Paranapura,-5.703249468,-76.4586692,Río,0,0,,7.412,Natural,forest,0,
+LORETO,Río Carhuapanas,-5.281413167,-76.97761583,Río,0,0,,2.002,Natural,forest,0,
+LORETO,Río Potro,-5.180622229,-77.25875019,Río,0,0,,2.414,Natural,forest,0,
+LORETO,Quebrada Naranjal,-4.945760954,-75.98026557,Quebrada,0,0,,0.889,Natural,forest,0,
+LORETO,Río Samiria,-5.23479296,-74.8207404,Río,0,0,,0.449,Natural,forest,0,
+LORETO,Río Pintoyacu,-2.121299077,-76.03955812,Río,0,0,,0.403,Natural,forest,0,
+LORETO,Río Morona,-3.793733801,-77.33664198,Río,0,0,,0.698,Natural,forest,0,
+LORETO,Río Huallaga,-5.502946591,-75.89672125,Río,0,0,,2.177,Natural,forest,0,
+LORETO,Río Ucayali,-7.609446436,-74.96420517,Río,0,0,,2.69,Natural,forest,0,
+LORETO,Río Ucayali,-5.937141969,-74.68115373,Río,0,0,,1.708,Natural,forest,0,
+LORETO,Río Ucayali,-4.775123905,-73.62784074,Río,0,0,,1.208,Natural,forest,0,
+LORETO,Río Marañón,-4.510072778,-73.91469791,Río,0,0,,4.977,Natural,forest,0,
+LORETO,Río Marañón,-4.564958701,-73.6252111,Río,0,0,,4.977,Natural,forest,0,
+LORETO,Río Marañón,-4.559777729,-74.22345147,Río,0,0,,4.977,Natural,forest,0,
+LORETO,Río Marañón,-4.757751024,-74.99372816,Río,0,0,,0.87,Natural,forest,0,
+LORETO,Río Marañón,-4.527758026,-74.52640234,Río,0,0,,0.449,Natural,forest,0,
+LORETO,Río Marañón,-5.042632313,-75.71153648,Río,0,0,,2.439,Natural,forest,0,
+LORETO,Río Marañón,-5.034625031,-76.05015553,Río,0,0,,2.414,Natural,forest,0,
+LORETO,Río Marañón,-5.032667695,-75.55405994,Río,0,0,,2.439,Natural,forest,0,
+LORETO,Río Marañón,-4.940815278,-76.28056595,Río,0,0,,2.414,Natural,forest,0,
+LORETO,Río Marañón,-4.90401737,-75.42879047,Río,0,0,,0.87,Natural,forest,0,
+LORETO,Río Marañón,-4.896882052,-76.52786827,Río,0,0,,2.414,Natural,forest,0,
+LORETO,Río Marañón,-4.826352877,-76.75680947,Río,0,0,,2.414,Natural,forest,0,
+LORETO,Río Marañón,-4.787346901,-76.98304414,Río,0,0,,0.698,Natural,forest,0,
+LORETO,Río Marañón,-4.613140615,-77.36346281,Río,1,2,2.58,3.482,Natural,forest,1,mining
+LORETO,Río Marañón,-4.967342922,-76.38832825,Río,0,0,,0.889,Natural,forest,0,
+LORETO,Río Pastaza,-4.794144076,-76.45418185,Río,0,0,,0.889,Natural,forest,0,
+LORETO,Río Pastaza,-4.188301255,-76.51304975,Río,0,0,,1.308,Natural,forest,0,
+LORETO,Río Pastaza,-3.168199741,-76.41505302,Río,0,0,,1.308,Natural,forest,0,
+LORETO,Río Ungumayo,-4.585586222,-76.32936472,Río,0,0,,0.889,Natural,forest,0,
+LORETO,Río Nucuray,-4.479580036,-76.05298662,Río,0,0,,2.439,Natural,forest,0,
+LORETO,Río Urituyacu,-4.304853841,-75.83523658,Río,0,0,,0.87,Natural,forest,0,
+LORETO,Río Ushpayacu,-4.051565507,-76.82807891,Río,0,0,,0.889,Natural,forest,0,
+LORETO,Río Huasaga,-3.168308933,-76.68142213,Río,0,0,,1.308,Natural,forest,0,
+LORETO,Río Corriente,-3.360753132,-75.53835059,Río,0,0,,0.847,Natural,forest,0,
+LORETO,Río Tahuayo,-4.387668116,-73.25729122,Río,0,0,,3.258,Natural,forest,0,
+LORETO,Río 49822,-3.981119874,-74.64509327,Río,0,0,,0.403,Natural,forest,0,
+LORETO,Río Manití,-3.899802889,-72.90097166,Río,0,0,,3.704,Natural,forest,0,
+LORETO,Río Orosa,-3.761695047,-72.4170699,Río,0,0,,1.42,Natural,forest,0,
+LORETO,Río Nanay,-3.684883651,-74.22977725,Río,0,0,,0.26,Natural,forest,0,
+LORETO,Río Atacuari,-3.593929182,-70.96113302,Río,0,0,,3.476,Natural,forest,0,
+LORETO,Río Amazonas,-3.826391987,-71.27217187,Río,0,0,,2.544,Natural,forest,0,
+LORETO,Río Amazonas,-4.212933654,-73.33824702,Río,0,0,,3.258,Natural,forest,0,
+LORETO,Río Amazonas,-3.534580642,-72.41179004,Río,0,0,,1.42,Natural,forest,0,
+LORETO,Río Amazonas,-3.510912455,-73.02331681,Río,0,0,,3.704,Natural,forest,0,
+LORETO,Río Amazonas,-3.464167786,-72.10410362,Río,0,0,,1.066,Natural,forest,0,
+LORETO,Río Amazonas,-3.454404659,-72.74107369,Río,0,0,,1.42,Natural,forest,0,
+LORETO,Río Amazonas,-3.412393628,-71.94404751,Río,0,0,,1.066,Natural,forest,0,
+LORETO,Río Amazonas,-3.894041225,-73.19491116,Río,0,0,,3.258,Natural,forest,0,
+LORETO,Río Amazonas,-3.683986069,-73.20289918,Río,0,0,,104.93,Natural,forest,2,urban
+LORETO,Río Ampiyacu,-3.236293683,-72.27244319,Río,0,0,,1.066,Natural,forest,0,
+LORETO,Río Apayacu,-3.216105562,-72.46780195,Río,0,0,,1.42,Natural,forest,0,
+LORETO,Río Mazán,-2.911649429,-73.89136848,Río,0,0,,1.503,Natural,forest,0,
+LORETO,Río Yaguas,-2.781830109,-70.96924549,Río,0,0,,0.084,Natural,forest,0,
+LORETO,Río Tigre,-2.746306883,-75.50169236,Río,0,0,,0.403,Natural,forest,0,
+LORETO,Río Tigre,-3.879351902,-74.33348237,Río,0,0,,0.403,Natural,forest,0,
+LORETO,Río Tigre,-3.494993447,-74.75136615,Río,0,0,,0.403,Natural,forest,0,
+LORETO,Río Tigre,-4.341148869,-74.28131352,Río,0,0,,4.977,Natural,forest,0,
+LORETO,Río Tigre,-2.125452221,-76.04142895,Río,0,0,,0.403,Natural,forest,0,
+LORETO,Río Pucacuro,-2.544427593,-75.19607613,Río,0,0,,0.403,Natural,forest,0,
+LORETO,Río Algodoncillo,-2.565321649,-72.92006951,Río,0,0,,0.404,Natural,forest,0,
+LORETO,Río Aguarico,-0.808298018,-75.24016898,Río,0,0,,0.901,Natural,forest,0,
+LORETO,Río Patayacu,-4.229701073,-75.35657408,Río,0,0,,0.87,Natural,forest,0,
+LORETO,Río Itaya,-4.225176099,-73.49382218,Río,0,0,,48.065,Natural,forest,1,urban
+LORETO,Río Napo,-2.831549799,-73.53570584,Río,0,0,,0.716,Natural,forest,0,
+LORETO,Río Curaray,-2.021976162,-74.86406162,Río,0,0,,0.716,Natural,forest,0,
+LORETO,Río Napo,-1.6533972,-74.63868293,Río,0,0,,0.901,Natural,forest,0,
+LORETO,Río Yavarí,-4.249406861,-70.82914287,Río,0,0,,0.729,Natural,forest,0,
+LORETO,Río Yavarí,-4.479887661,-71.55973025,Río,0,0,,0.729,Natural,forest,0,
+LORETO,Río Yavarí Mirín,-4.504611052,-72.36085473,Río,0,0,,0.729,Natural,forest,0,
+LORETO,Río Yavarí,-4.812762143,-72.3258428,Río,0,0,,0.729,Natural,forest,0,
+LORETO,Río Napo,-3.3093241,-72.85563523,Río,0,0,,1.503,Natural,forest,0,
+MADRE DE DIOS,Río Manu,-11.7431143,-71.6338416,Río,0,0,,0.138,Natural,forest,0,
+MADRE DE DIOS,Río Pinquen,-12.26430608,-71.39156741,Río,0,0,,0.319,Natural,forest,0,
+MADRE DE DIOS,Río Alto Madre de Dios,-12.8746815,-71.35704074,Río,1,9,7.51,0.319,Natural,forest,2,mining
+MADRE DE DIOS,Río Colorado,-12.84175358,-70.85844341,Río,1,1,12.95,0.969,Natural,forest,1,mining
+MADRE DE DIOS,Río Inambari,-12.80131702,-70.1785248,Río,1,18,9.94,4.009,Natural,forest,2,mining
+MADRE DE DIOS,Río Madre de Dios,-12.65296094,-69.88576746,Río,1,23,11.15,4.009,Natural,forest,2,mining
+MADRE DE DIOS,Río Madre de Dios,-12.59841744,-69.43537365,Río,1,26,11.76,5.149,Natural,forest,2,mining
+MADRE DE DIOS,Río Madre de Dios,-12.59828493,-70.21698174,Río,1,14,10.68,0.969,Natural,forest,2,mining
+MADRE DE DIOS,Río Madre de Dios,-12.53158595,-69.16551456,Río,1,23,13.01,3.138,Natural,forest,2,mining
+MADRE DE DIOS,Río Madre de Dios,-12.53045983,-68.90781675,Río,1,3,12.03,3.138,Natural,forest,1,mining
+MADRE DE DIOS,Río Madre de Dios,-12.44099251,-70.66140997,Río,0,0,,0.969,Natural,forest,0,
+MADRE DE DIOS,Río Manu,-12.23371444,-70.97612087,Río,1,2,13.91,0.138,Natural,forest,1,mining
+MADRE DE DIOS,Río Los Amigos,-12.04210122,-70.63528341,Río,1,1,14.23,0.138,Natural,forest,1,mining
+MADRE DE DIOS,Río Manuripe,-11.91409763,-68.97224902,Río,0,0,,1.15,Natural,forest,0,
+MADRE DE DIOS,Río Manuripe,-11.77048599,-69.64757319,Río,0,0,,3.138,Natural,forest,0,
+MADRE DE DIOS,Río Muymanu,-11.63341621,-69.6541168,Río,0,0,,1.15,Natural,forest,0,
+MADRE DE DIOS,Río De las Piedras,-11.53757224,-70.55336572,Río,0,0,,5.149,Natural,forest,0,
+MADRE DE DIOS,Río Orthón,-11.3540791,-69.84787705,Río,0,0,,2.562,Natural,forest,0,
+MADRE DE DIOS,Río Lanza,-11.29138522,-69.51943679,Río,0,0,,2.562,Natural,forest,0,
+MADRE DE DIOS,Río 46628,-11.2404485,-70.66895279,Río,0,0,,0.239,Natural,forest,0,
+MADRE DE DIOS,Río Tahuamane,-11.00456719,-70.89430438,Río,0,0,,0.239,Natural,forest,0,
+MADRE DE DIOS,Río Acre,-10.98023564,-70.04179697,Río,0,0,,0.239,Natural,forest,0,
+MADRE DE DIOS,Río Abismo,-10.92520304,-70.66244322,Río,0,0,,0.239,Natural,forest,0,
+MADRE DE DIOS,Río Yaco,-10.79948176,-70.93554491,Río,0,0,,0.239,Natural,forest,0,
+MADRE DE DIOS,Río Chandless,-10.50367326,-70.8969083,Río,0,0,,0.239,Natural,forest,0,
+MOQUEGUA,Río Coralaque,-16.72029223,-70.0904633,Río,1,4,9.39,1.092,Natural,,1,mining
+MOQUEGUA,Río Ilo,-17.6229316,-71.28307182,Río,1,3,10.26,13.798,Natural,,1,mining
+MOQUEGUA,Río Ilo,-17.57419526,-71.21019855,Río,1,3,7.42,13.798,Natural,,1,mining
+MOQUEGUA,Quebrada Honda,-17.55666964,-71.10755546,Quebrada,1,3,14.35,13.798,Natural,,1,mining
+MOQUEGUA,Quebrada Carrizal,-17.47045245,-71.32778645,Quebrada,1,5,12.71,15.789,Natural,,1,mining
+MOQUEGUA,Quebrada Seca,-17.43251917,-70.94460548,Quebrada,0,0,,13.516,Natural,,0,
+MOQUEGUA,Río Osmore,-17.39315077,-71.06816541,Río,0,0,,66.547,Natural,,1,urban
+MOQUEGUA,Quebrada Guaneros,-17.22123266,-71.07293978,Quebrada,1,2,13.99,66.547,Natural,,1,"mining, urban"
+MOQUEGUA,Río Torata,-17.18592521,-70.9601808,Río,0,0,,13.516,Natural,,0,
+MOQUEGUA,Río Torata,-17.02958219,-70.70568028,Río,1,3,12.0,4.458,Natural,,1,mining
+MOQUEGUA,Río Huaracané,-16.96924241,-70.8179027,Río,1,3,11.86,4.458,Natural,,1,mining
+MOQUEGUA,Quebrada Huayrondo,-16.90066408,-71.37577133,Quebrada,1,5,16.3,0.533,Natural,,1,mining
+MOQUEGUA,Río Tambo,-16.79345682,-71.0838466,Río,1,1,14.74,13.516,Natural,,1,mining
+MOQUEGUA,Río Tumilaca,-17.10672411,-70.69919531,Río,1,7,14.68,4.458,Natural,,2,mining
+MOQUEGUA,Río Coralaque,-16.55984475,-70.51965239,Río,0,0,,0.536,Natural,,0,
+MOQUEGUA,Río Tambo,-16.29285763,-70.74639606,Río,1,1,15.95,1.87,Natural,,1,mining
+MOQUEGUA,Río Ichuña,-16.10352683,-70.40768521,Río,1,5,12.76,3.206,Natural,,1,mining
+PASCO,Río Mantaro,-11.07717404,-76.24435445,Río,1,8,13.78,8.449,Natural,,2,mining
+PASCO,Río Huertas,-10.61108661,-76.52585064,Río,1,5,17.41,15.679,Natural,,1,mining
+PASCO,Río San Juan,-10.68417333,-76.32419454,Río,1,10,13.09,17.101,Natural,,2,mining
+PASCO,Río Huallaga,-10.44503408,-76.18531272,Río,1,9,14.85,51.831,Natural,,2,"mining, urban, quimic"
+PASCO,Río Huertas,-10.33591954,-76.37822262,Río,1,7,14.99,18.598,Natural,,2,mining
+PASCO,Río Conocancha,-11.0634527,-76.43468913,Río,1,19,13.29,8.449,Natural,,2,mining
+PASCO,Río San Juan,-10.85929279,-76.26596586,Río,1,4,8.36,17.101,Natural,,1,mining
+PASCO,Río Paucartambo,-10.71658394,-75.65754528,Río,1,4,16.28,11.171,Natural,,1,mining
+PASCO,Río Pichis,-10.38667551,-74.74946899,Río,0,0,,2.829,Natural,,0,
+PASCO,Río Huancabamba,-10.34462787,-75.54729225,Río,0,0,,6.204,Natural,,0,
+PASCO,Río Palcazu,-10.25726539,-75.14519371,Río,0,0,,2.655,Natural,,0,
+PASCO,Río Palcazu,-9.872811535,-75.07242647,Río,0,0,,6.359,Natural,,0,
+PIURA,Río Piura,-5.499998967,-79.71444228,Río,0,0,,19.865,Natural,,0,
+PIURA,Río Piura,-5.200650947,-80.62519128,Río,0,0,,980.345,Natural,,2,urban
+PIURA,Río Piura,-5.063072967,-80.20944415,Río,0,0,,106.782,Natural,,2,urban
+PIURA,Quebrada La Soledad,-5.053896742,-80.84548745,Quebrada,0,0,,22.976,Natural,,0,
+PIURA,Río Chira,-4.889885934,-80.80218674,Río,0,0,,21.524,Natural,,0,
+PIURA,Quebrada San Francisco,-4.830725657,-80.21911374,Quebrada,1,3,10.06,85.139,Natural,,1,"mining, urban, quimic"
+PIURA,Quebrada Hualtacal,-4.73780424,-80.87200778,Quebrada,0,0,,18.004,Natural,,0,
+PIURA,Río Chipillico,-4.714733512,-80.12800302,Río,1,5,15.73,56.96,Natural,,1,"mining, urban, quimic"
+PIURA,Río Chira,-4.63013112,-80.48841415,Río,1,3,13.96,7.197,Natural,,1,mining
+PIURA,Quebrada Acholada,-4.612320459,-81.2525123,Quebrada,0,0,,18.004,Natural,,0,
+PIURA,Quebrada Ancha,-4.593584631,-81.11178329,Quebrada,0,0,,96.91,Natural,,1,urban
+PIURA,Quebrada Mogollón,-4.57557149,-81.03419498,Quebrada,0,0,,96.91,Natural,,1,urban
+PIURA,Quebrada Tutuma,-4.545207717,-80.28324313,Quebrada,1,13,12.48,7.197,Natural,,2,mining
+PIURA,Quebrada Huasimal,-4.539805572,-80.37900664,Quebrada,1,7,15.67,7.197,Natural,,2,mining
+PIURA,Río Chira,-4.533021831,-80.42160027,Río,1,2,10.99,7.197,Natural,,1,mining
+PIURA,Quebrada Pariñas,-4.532231933,-81.20555329,Quebrada,0,0,,96.91,Natural,,1,urban
+PIURA,Quebrada La Solana,-4.531276649,-80.45888437,Quebrada,1,2,13.62,7.197,Natural,,1,mining
+PIURA,Quebrada La Solana,-4.522167472,-80.50361008,Quebrada,1,1,14.68,7.197,Natural,,1,mining
+PIURA,Quebrada Tamarindo,-4.521373572,-80.62587916,Quebrada,0,0,,7.197,Natural,,0,
+PIURA,Quebrada Peñitas,-4.520181431,-80.38622563,Quebrada,1,7,16.45,7.197,Natural,,2,mining
+PIURA,Quebrada Pariñas,-4.516621274,-81.28492506,Quebrada,0,0,,96.91,Natural,,1,urban
+PIURA,Quebrada Redondos,-4.507261777,-80.89482859,Quebrada,0,0,,21.524,Natural,,0,
+PIURA,Río Chira,-4.506571274,-80.40178721,Río,1,3,13.8,7.197,Natural,,1,mining
+PIURA,Quebrada Durand,-4.491867106,-80.44304522,Quebrada,1,2,15.63,7.197,Natural,,1,mining
+PIURA,Río Chira,-4.479831719,-80.36431047,Río,1,8,16.22,7.197,Natural,,2,mining
+PIURA,Río Alamor,-4.477421742,-80.39635851,Río,1,3,14.96,7.197,Natural,,1,mining
+PIURA,Quebrada Encantados,-4.477003769,-80.61017923,Quebrada,0,0,,7.197,Natural,,0,
+PIURA,Quebrada Pariñas,-4.473864516,-81.07420533,Quebrada,0,0,,96.91,Natural,,1,urban
+PIURA,Quebrada La Solana,-4.473594892,-80.51493372,Quebrada,1,1,19.7,7.197,Natural,,1,mining
+PIURA,Río Quiroz,-4.472329068,-80.18514038,Río,1,16,9.62,10.894,Natural,,2,mining
+PIURA,Quebrada Noria,-4.46347902,-80.28566657,Quebrada,1,12,12.19,7.197,Natural,,2,mining
+PIURA,Río Chira,-4.46223668,-80.33006903,Río,1,10,15.08,7.197,Natural,,2,mining
+PIURA,Río Chira,-4.442500933,-80.30262223,Río,1,12,14.5,7.197,Natural,,2,mining
+PIURA,Quebrada Pariñas,-4.441010451,-80.97401371,Quebrada,0,0,,96.91,Natural,,1,urban
+PIURA,Quebrada Honda,-4.411931905,-81.13191822,Quebrada,0,0,,96.91,Natural,,1,urban
+PIURA,Río Chira,-4.896292579,-80.96077412,Río,0,0,,29.251,Natural,,0,
+PIURA,Río Chira,-4.843701363,-80.63465,Río,1,1,18.77,110.964,Natural,,2,"mining, urban"
+PIURA,Quebrada Samán,-4.695853506,-80.76324622,Quebrada,0,0,,21.524,Natural,,0,
+PIURA,Río Chira,-4.501599365,-80.39923911,Río,1,3,13.89,7.197,Natural,,1,mining
+PIURA,Quebrada Algarrobillo,-4.505813971,-80.37323966,Quebrada,1,7,15.65,7.197,Natural,,2,mining
+PIURA,Río Chira,-4.493395716,-80.39125919,Río,1,4,15.26,7.197,Natural,,1,mining
+PIURA,Río Chira,-4.905406738,-80.84695766,Río,0,0,,129.933,Natural,,2,urban
+PIURA,Río Chira,-4.510946554,-80.41496277,Río,1,3,14.4,7.197,Natural,,1,mining
+PIURA,Río Chira,-4.481918619,-80.38379719,Río,1,7,17.2,7.197,Natural,,2,mining
+PIURA,Quebrada Pariñas,-4.390861673,-80.93358304,Quebrada,0,0,,96.91,Natural,,1,urban
+PIURA,Quebrada San Francisco,-4.955181653,-80.28590838,Quebrada,1,2,10.53,85.139,Natural,,1,"mining, urban"
+PIURA,Río Chira,-4.875737908,-81.07526311,Río,0,0,,160.58,Natural,,2,urban
+PIURA,Quebrada Tamarindo,-4.430172363,-80.73997047,Quebrada,0,0,,21.524,Natural,,0,
+PIURA,Río Piura,-5.180280491,-80.04229448,Río,0,0,,15.573,Natural,,0,
+PIURA,Quebrada Tortolitas,-5.339583333,-80.02291667,Quebrada,0,0,,15.573,Natural,,0,
+PIURA,Quebrada Suyo,-4.534570714,-79.95972211,Quebrada,1,10,12.0,10.894,Natural,,2,mining
+PIURA,Río Piura,-5.283394547,-79.93733181,Río,0,0,,41.486,Natural,,1,urban
+PIURA,Río Quiroz,-4.631233725,-79.92526312,Río,1,7,11.24,31.959,Natural,,2,mining
+PIURA,Río Calvas,-4.424648486,-79.86324088,Río,1,4,15.35,10.894,Natural,,1,mining
+PIURA,Río Corrales,-5.196247081,-79.83554968,Río,0,0,,39.988,Natural,,1,urban
+PIURA,Quebrada Calvas,-4.556085363,-79.76228506,Quebrada,0,0,,20.235,Natural,,0,
+PIURA,Río Quiroz,-4.775390777,-79.74317784,Río,1,2,10.65,20.235,Natural,,1,mining
+PIURA,Río Tulmán,-4.937751699,-79.69504433,Río,1,1,17.28,23.584,Natural,,1,mining
+PIURA,Río Santa Rosa,-4.81015684,-79.68953967,Río,1,2,10.86,23.584,Natural,,1,mining
+PIURA,Río Bigote,-5.258834795,-79.68033936,Río,1,1,17.83,22.965,Natural,,1,mining
+PIURA,Quebrada Mangos,-4.682421517,-79.67599818,Quebrada,1,2,16.32,20.235,Natural,,1,mining
+PIURA,Quebrada Pan de Azúcar,-4.44861087,-79.67471281,Quebrada,0,0,,20.235,Natural,,0,
+PIURA,Quebrada La Villa,-4.599728664,-79.61180674,Quebrada,0,0,,20.235,Natural,,0,
+PIURA,Río San Pablo,-5.032599533,-79.58395319,Río,0,0,,23.584,Natural,,0,
+PIURA,Río Parcuchaca,-4.770371898,-79.55899184,Río,1,1,8.11,20.235,Natural,,1,mining
+PIURA,Río Chico,-4.633570849,-79.47874259,Río,0,0,,20.235,Natural,,0,
+PIURA,Quebrada Gramadal,-4.410527878,-80.8170311,Quebrada,0,0,,21.524,Natural,,0,
+PIURA,Quebrada Remolinos,-4.395753118,-80.15398539,Quebrada,1,15,13.19,10.894,Natural,,2,mining
+PIURA,Quebrada Teodora,-4.362735934,-80.18234246,Quebrada,1,13,15.59,10.894,Natural,,2,mining
+PIURA,Quebrada Seca,-4.358846054,-80.56193927,Quebrada,0,0,,7.197,Natural,,0,
+PIURA,Quebrada Cancha,-4.351199117,-80.85770098,Quebrada,0,0,,21.524,Natural,,0,
+PIURA,Quebrada Chiqueros,-4.343858241,-80.134674,Quebrada,1,10,16.03,10.894,Natural,,2,mining
+PIURA,Quebrada Fernández,-4.184221207,-80.74515392,Quebrada,0,0,,21.524,Natural,,0,
+PIURA,Quebrada Encuentros,-4.371670344,-80.49577968,Quebrada,0,0,,7.197,Natural,,0,
+PIURA,Quebrada Checo,-4.261064113,-80.58025752,Quebrada,0,0,,7.197,Natural,,0,
+PIURA,Quebrada Jabonillos,-4.254584673,-80.4309986,Quebrada,0,0,,7.197,Natural,,0,
+PIURA,Quebrada Checo,-4.288917326,-80.51405439,Quebrada,0,0,,7.197,Natural,,0,
+PIURA,Quebrada Seca,-4.334659932,-80.69813257,Quebrada,0,0,,7.197,Natural,,0,
+PUNO,Río Viluta,-17.09973743,-69.71056527,Río,0,0,,0.868,Natural,,0,
+PUNO,Río Llaitiri,-17.06901335,-69.76188165,Río,0,0,,0.868,Natural,,0,
+PUNO,Río Churigancalle,-17.06460741,-69.86388911,Río,0,0,,0.945,Natural,,0,
+PUNO,Quebrada Tolamoco,-17.05810839,-69.93060218,Quebrada,0,0,,0.945,Natural,,0,
+PUNO,Quebrada Tijratoma,-17.04028607,-69.73053478,Quebrada,0,0,,0.868,Natural,,0,
+PUNO,Río Viluta,-17.03374893,-69.69114398,Río,0,0,,0.868,Natural,,0,
+PUNO,Río Coypa,-17.01145497,-69.91627736,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Ocohuichinca,-17.01113165,-69.9749339,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Coypa,-17.00630116,-69.89810542,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Tupala,-16.99765863,-69.62346623,Río,1,1,15.36,0.868,Natural,,1,mining
+PUNO,Río Humajalso,-16.98406055,-69.69599245,Río,1,1,19.26,0.868,Natural,,1,mining
+PUNO,Río Mauri,-17.23477629,-69.79243126,Río,0,0,,0.868,Natural,,0,
+PUNO,Río Coypa,-16.96840138,-69.85152237,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Pizacoma,-16.95811484,-69.36081162,Río,0,0,,7.467,Natural,,0,
+PUNO,Río Llusta,-16.95463433,-69.69815415,Río,1,1,17.63,0.945,Natural,,1,mining
+PUNO,Río Coypacoypa,-16.94670917,-70.03171129,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Japo,-16.9441377,-69.62271945,Río,1,1,10.48,0.868,Natural,,1,mining
+PUNO,Río Chichillapi,-16.93727167,-69.75227622,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Llusta,-16.933526,-69.70779986,Río,1,1,17.55,0.945,Natural,,1,mining
+PUNO,Río Chila,-16.88757121,-69.90551751,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Llusta,-16.849998,-69.72480664,Río,1,1,18.43,0.945,Natural,,1,mining
+PUNO,Río Jollojahuira,-16.84353619,-69.6460513,Río,1,1,10.48,0.945,Natural,,1,mining
+PUNO,Río Quillliri,-16.82483872,-69.81563346,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Llusta,-16.78154114,-69.72775844,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Huenque,-16.76515174,-69.71259707,Río,0,0,,0.945,Natural,,0,
+PUNO,Quebrada Yulaca,-16.76177999,-69.58054786,Quebrada,1,1,13.09,0.945,Natural,,1,mining
+PUNO,Río Chilisaya,-16.75982266,-69.85424615,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Lacatuyoc,-16.74435266,-69.63838667,Río,1,1,17.24,0.945,Natural,,1,mining
+PUNO,Río Taaque,-16.73594939,-69.56017016,Río,1,1,15.66,0.945,Natural,,1,mining
+PUNO,Río Huenque,-16.72873665,-69.69460998,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Cachijara,-16.70680559,-69.6064626,Río,1,1,19.7,0.945,Natural,,1,mining
+PUNO,Río Ayupalca,-16.69777762,-69.5296733,Río,0,0,,11.7,Natural,,0,
+PUNO,Río Hualquipune,-16.67791305,-69.62880766,Río,0,0,,2.318,Natural,,0,
+PUNO,Río Lacatuyoc,-16.67710773,-69.705633,Río,0,0,,2.318,Natural,,0,
+PUNO,Río Hualquipune,-16.67158768,-69.65519967,Río,0,0,,2.318,Natural,,0,
+PUNO,Río Cachacara,-16.67094793,-69.68495,Río,0,0,,2.318,Natural,,0,
+PUNO,Río Calasaya,-16.65662465,-69.59376515,Río,0,0,,2.318,Natural,,0,
+PUNO,Río Chingune,-16.65425891,-69.87804472,Río,1,1,18.35,0.945,Natural,,1,mining
+PUNO,Río Irpa,-16.60569646,-69.62978198,Río,0,0,,2.318,Natural,,0,
+PUNO,Río Palcoma,-16.6034902,-69.77651301,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Lizani,-16.59740042,-69.74749024,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Piaque,-16.59448088,-69.95721786,Río,1,3,13.52,0.945,Natural,,1,mining
+PUNO,Río Huanacamaya,-16.58952037,-69.84995276,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Callaccame,-16.57610719,-69.34484517,Río,1,1,9.92,11.7,Natural,,1,mining
+PUNO,Río Cachuuma,-16.57136369,-69.85215879,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Huanacamaya,-16.56812659,-69.78805408,Río,0,0,,2.318,Natural,,0,
+PUNO,Río Tulajahuira,-16.67779123,-69.747075,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Huenque,-16.64913194,-69.69728847,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Huenque,-16.64200304,-69.6947336,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Lizani,-16.63120233,-69.71304059,Río,0,0,,0.945,Natural,,0,
+PUNO,Río Huenque,-16.57975907,-69.67757067,Río,0,0,,2.318,Natural,,0,
+PUNO,Río Lizani,-16.49915625,-69.80073107,Río,0,0,,2.318,Natural,,0,
+PUNO,Quebrada Jaro Occo,-16.42227127,-69.59967618,Quebrada,0,0,,24.673,Natural,,0,
+PUNO,Río Uncallane,-16.42104934,-70.13452351,Río,1,1,17.26,3.805,Natural,,1,mining
+PUNO,Río Huenque,-16.40901491,-69.66894542,Río,0,0,,24.673,Natural,,0,
+PUNO,Quebrada Jaro Occo,-16.40207696,-69.62290328,Quebrada,0,0,,24.673,Natural,,0,
+PUNO,Río Cangalle,-16.37767532,-69.79667419,Río,0,0,,11.809,Natural,,0,
+PUNO,Río Huenque,-16.37283018,-69.70808211,Río,0,0,,50.379,Natural,,1,urban
+PUNO,Río Huenque,-16.27307589,-69.71194117,Río,0,0,,50.379,Natural,,1,urban
+PUNO,Quebrada Sacuyo,-16.21838611,-69.97247347,Quebrada,0,0,,11.809,Natural,,0,
+PUNO,Quebrada 01618,-16.20144207,-69.69329299,Quebrada,0,0,,50.379,Natural,,1,urban
+PUNO,Río Aguas Calientes,-16.20143047,-69.78089178,Río,0,0,,11.809,Natural,,0,
+PUNO,Quebrada 01616,-16.17519967,-69.73937642,Quebrada,0,0,,11.809,Natural,,0,
+PUNO,Río Caturay,-16.16293564,-70.07752781,Río,0,0,,3.805,Natural,,0,
+PUNO,Río Grande,-16.155638,-69.84521928,Río,0,0,,11.809,Natural,,0,
+PUNO,Río Ilave,-16.15372624,-69.69386898,Río,0,0,,11.809,Natural,,0,
+PUNO,Río Zapatilla,-16.12084474,-69.7272674,Río,0,0,,11.809,Natural,,0,
+PUNO,Río Carumas,-16.11343533,-69.69497282,Río,0,0,,11.809,Natural,,0,
+PUNO,Río Tunquipa,-16.09082495,-69.88310567,Río,0,0,,11.809,Natural,,0,
+PUNO,Río Liquini,-16.05357109,-69.92328654,Río,0,0,,28.907,Natural,,0,
+PUNO,Río Grande,-16.06952433,-70.076299,Río,0,0,,3.805,Natural,,0,
+PUNO,Río Ilave,-16.05731192,-69.52501193,Río,0,0,,50.379,Natural,,1,urban
+PUNO,Río Comitere,-15.9750656,-70.02574595,Río,0,0,,308.477,Natural,,2,urban
+PUNO,Río Queñamichi,-16.52057625,-69.70259762,Río,0,0,,2.318,Natural,,0,
+PUNO,Río Huenque,-16.47377073,-69.65145669,Río,0,0,,2.318,Natural,,0,
+PUNO,Río Ilave,-16.19580734,-69.70770282,Río,0,0,,50.379,Natural,,1,urban
+PUNO,Río Ilave,-16.17084292,-69.7037801,Río,0,0,,50.379,Natural,,1,urban
+PUNO,Río Ilave,-16.12679118,-69.67920517,Río,0,0,,50.379,Natural,,1,urban
+PUNO,Río Ilave,-16.10622706,-69.64783735,Río,0,0,,50.379,Natural,,1,urban
+PUNO,Río Paltuture,-15.93333556,-70.73363723,Río,0,0,,4.2,Natural,,0,
+PUNO,Río Ilpa,-15.83274003,-70.2565384,Río,1,1,5.14,15.534,Natural,,1,mining
+PUNO,Río Huantaña,-15.78018253,-70.49420726,Río,1,4,12.55,4.2,Natural,,1,mining
+PUNO,Río Cabanillas,-15.66874539,-70.55812336,Río,1,7,10.96,4.264,Natural,,2,mining
+PUNO,Río Verde,-15.6309873,-70.69039972,Río,1,6,10.55,4.264,Natural,,2,mining
+PUNO,Río Cerrillos,-15.62373109,-70.88911116,Río,1,2,15.23,4.264,Natural,,1,mining
+PUNO,Río Cabanillas,-15.60294312,-70.31882285,Río,0,0,,33.633,Natural,,1,urban
+PUNO,Río de Paratia,-15.46995304,-70.63792359,Río,1,2,8.32,2.653,Natural,,1,mining
+PUNO,Río Verde,-15.45347963,-70.76176013,Río,1,4,14.65,2.653,Natural,,1,mining
+PUNO,Río Lampa,-15.31573906,-70.4286348,Río,0,0,,16.689,Natural,,0,
+PUNO,Río Ilpa,-15.66871727,-70.14674573,Río,0,0,,38.171,Natural,,1,urban
+PUNO,Río Coata,-15.44148278,-70.14572606,Río,0,0,,649.704,Natural,,2,urban
+PUNO,Río Coata,-15.52718717,-70.0229109,Río,0,0,,38.171,Natural,,1,urban
+PUNO,Río Ramis,-15.29582249,-69.79439797,Río,0,0,,46.609,Natural,,1,urban
+PUNO,Río Ramis,-15.28490048,-69.99091028,Río,0,0,,65.064,Natural,,1,urban
+PUNO,Río Huancané,-15.17809674,-69.79153111,Río,0,0,,46.609,Natural,,1,urban
+PUNO,Río Tuyto,-15.1319827,-69.56345915,Río,0,0,,13.109,Natural,,0,
+PUNO,Río Putina,-15.07152463,-69.80630976,Río,0,0,,25.549,Natural,,0,
+PUNO,Río Chueña Huata Jahuira,-15.04976745,-69.33707996,Río,0,0,,4.166,Natural,,0,
+PUNO,Río Llache,-15.0492385,-69.89897408,Río,0,0,,12.916,Natural,,0,
+PUNO,Río Pistune,-15.00180884,-69.69031556,Río,0,0,,7.608,Natural,,0,
+PUNO,Río Putina,-14.97416136,-69.84172173,Río,0,0,,11.782,Natural,,0,
+PUNO,Río Suches,-14.92480684,-69.39207006,Río,1,2,17.88,4.166,Natural,,1,mining
+PUNO,Río Pongongoni,-14.90595535,-69.82707666,Río,0,0,,11.782,Natural,,0,
+PUNO,Río Caylloma,-14.89306755,-69.47666498,Río,1,2,17.35,4.166,Natural,,1,mining
+PUNO,Río Puncune,-14.85517224,-69.70193734,Río,0,0,,10.044,Natural,,0,
+PUNO,Río Quilcamayo,-14.85434353,-70.07365783,Río,1,1,19.51,47.061,Natural,,1,mining
+PUNO,Río Trapiche,-14.74107863,-69.41136296,Río,1,6,11.04,10.044,Natural,,2,mining
+PUNO,Río Lloquecolla,-14.71324545,-69.95334743,Río,1,2,18.2,8.941,Natural,,1,mining
+PUNO,Río Crucero,-14.44590327,-69.85358419,Río,1,1,11.64,11.782,Natural,,1,mining
+PUNO,Río Huari Huari,-14.16571481,-69.29862137,Río,1,9,13.98,5.073,Natural,,2,mining
+PUNO,Río Limbani,-14.0880543,-69.82876237,Río,1,10,13.87,11.05,Natural,,2,mining
+PUNO,Río Huaraya,-15.38092171,-69.49448116,Río,0,0,,20.656,Natural,,0,
+PUNO,Quebrada 017744,-15.36359179,-69.48849771,Quebrada,0,0,,20.656,Natural,,0,
+PUNO,Quebrada 017752,-15.36453377,-69.50674355,Quebrada,0,0,,20.656,Natural,,0,
+PUNO,Río Huaraya,-15.37382366,-69.51501444,Río,0,0,,20.656,Natural,,0,
+PUNO,Río Pucará,-15.13730006,-70.34717256,Río,0,0,,13.613,Natural,,0,
+PUNO,Río Azángaro,-15.11865081,-70.17891584,Río,0,0,,13.613,Natural,,0,
+PUNO,Río Llallimayo,-15.06249449,-70.86751794,Río,1,1,11.06,2.369,Natural,,1,mining
+PUNO,Río Umachiri,-14.93924713,-70.73281473,Río,1,1,16.4,10.729,Natural,,1,mining
+PUNO,Río Azángaro,-14.83826495,-70.22610367,Río,0,0,,47.061,Natural,,1,urban
+PUNO,Río Ayaviri,-14.80980372,-70.71057306,Río,0,0,,10.729,Natural,,0,
+PUNO,Río Ayaviri,-14.7979641,-70.72761571,Río,0,0,,10.729,Natural,,0,
+PUNO,Río Chuncapamayo,-14.71087008,-70.909681,Río,0,0,,9.602,Natural,,0,
+PUNO,Río Santa Rosa,-14.60496579,-70.82330516,Río,0,0,,7.175,Natural,,0,
+PUNO,Río Crucero,-14.56849103,-70.29464128,Río,0,0,,14.731,Natural,,0,
+PUNO,Río Grande,-14.50259212,-70.59539584,Río,0,0,,3.327,Natural,,0,
+PUNO,Río Crucero,-14.34129711,-70.24416583,Río,1,1,14.78,5.747,Natural,,1,mining
+PUNO,Río Antauta,-14.28337819,-70.34409551,Río,1,1,6.12,8.475,Natural,,1,mining
+PUNO,Río Ajoyani,-14.2033578,-70.2149562,Río,1,1,12.06,5.681,Natural,,1,mining
+PUNO,Río Ventilla,-15.0255743,-70.58073202,Río,0,0,,24.51,Natural,,0,
+PUNO,Río Ayaviri,-14.90549921,-70.51457176,Río,0,0,,24.51,Natural,,0,
+PUNO,Río Ayaviri,-14.86395287,-70.64775955,Río,0,0,,24.51,Natural,,0,
+PUNO,Río Sangaban,-13.79189553,-70.46820373,Río,1,7,6.66,9.061,Natural,,2,mining
+PUNO,Rio Esquilaya,-13.78556391,-70.15801127,Río,1,15,13.02,6.863,Natural,,2,mining
+PUNO,Río Tambopata,-13.47886727,-69.3604505,Río,0,0,,1.701,Natural,,0,
+PUNO,Río Inambari,-13.31142139,-70.30746285,Río,1,7,12.67,4.416,Natural,,2,mining
+PUNO,Río Inambari,-13.44569682,-70.2386763,Río,1,3,13.64,11.517,Natural,,1,mining
+PUNO,Río Inambari,-13.67922464,-69.92673542,Río,1,9,18.47,1.591,Natural,,2,mining
+SAN MARTIN,Río Biabo,-7.911098952,-76.12508295,Río,0,0,,1.957,Natural,,0,
+SAN MARTIN,Río Huallaga,-8.225054236,-76.48515922,Río,1,1,15.13,22.853,Natural,,1,mining
+SAN MARTIN,Río Huallaga,-7.096452742,-76.63519822,Río,0,0,,18.769,Natural,,0,
+SAN MARTIN,Río Huallaga,-6.817677334,-76.3191244,Río,0,0,,15.669,Natural,,0,
+SAN MARTIN,Río Huayabamba,-6.70910641,-77.2891479,Río,0,0,,1.118,Natural,,0,
+SAN MARTIN,Río Mayo,-6.209767999,-76.70382595,Río,0,0,,16.475,Natural,,0,
+SAN MARTIN,Río Huallaga,-6.177832568,-75.84947408,Río,0,0,,6.487,Natural,,0,
+SAN MARTIN,Río Biabo,-7.362220492,-76.44520042,Río,0,0,,1.957,Natural,,0,
+SAN MARTIN,Río Huallaga,-7.627483794,-76.76854154,Río,0,0,,10.776,Natural,,0,
+SAN MARTIN,Río Huayabamba,-7.28239325,-76.94404268,Río,0,0,,4.278,Natural,,0,
+SAN MARTIN,Río Mayo,-5.709889194,-77.40208166,Río,0,0,,22.207,Natural,,0,
+TACNA,Quebrada Escritos,-18.21467128,-70.11045286,Quebrada,0,0,,57.759,Natural,,1,urban
+TACNA,Quebrada Chochocane,-18.14218774,-69.99503971,Quebrada,0,0,,57.759,Natural,,1,urban
+TACNA,Quebrada Espíritus,-18.13206402,-70.09131719,Quebrada,0,0,,57.759,Natural,,1,urban
+TACNA,Quebrada Unión,-18.07208256,-69.90117209,Quebrada,0,0,,57.759,Natural,,1,urban
+TACNA,Quebrada Cauñani,-18.04661068,-70.01828483,Quebrada,0,0,,57.759,Natural,,1,urban
+TACNA,Quebrada Espiritus,-18.04430429,-69.91349303,Quebrada,0,0,,57.759,Natural,,1,urban
+TACNA,Quebrada Hospicio,-18.02121346,-70.09965549,Quebrada,0,0,,77.496,Natural,,1,urban
+TACNA,Río Caplina,-17.74380069,-70.04509614,Río,1,2,16.28,4.539,Natural,,1,mining
+TACNA,Río Ushusuma,-17.57557699,-69.6931714,Río,0,0,,1.701,Natural,,0,
+TACNA,Río Tala,-17.46044368,-70.04383554,Río,1,4,16.05,4.27,Natural,,1,mining
+TACNA,Río Caño,-17.40290857,-69.56100463,Río,0,0,,4.27,Natural,,0,
+TACNA,Río Salado,-17.33547324,-70.11520785,Río,1,4,13.52,1.284,Natural,,1,mining
+TACNA,Río Jaruma,-17.19135112,-70.1583629,Río,1,1,11.3,1.713,Natural,,1,mining
+TACNA,Río Tala,-17.33744689,-69.97267788,Río,1,2,16.93,1.55,Natural,,1,mining
+TACNA,Río Uchusuma,-17.86867962,-70.00762162,Río,0,0,,4.539,Natural,,0,
+TACNA,Río Salado,-17.20764817,-70.00768556,Río,1,1,14.93,1.284,Natural,,1,mining
+TACNA,Quebrada 131536,-18.26243565,-70.38138011,Quebrada,0,0,,14.4,Natural,,0,
+TACNA,Quebrada Hospicio,-18.26105224,-70.39883851,Quebrada,0,0,,14.4,Natural,,0,
+TACNA,Quebrada Las Salinas,-18.23612559,-70.32148708,Quebrada,0,0,,57.759,Natural,,1,urban
+TACNA,Quebrada La Garita,-18.18387875,-70.32393936,Quebrada,0,0,,57.759,Natural,,1,urban
+TACNA,Quebrada Espiritus,-18.17742731,-70.22197064,Quebrada,0,0,,57.759,Natural,,1,urban
+TACNA,Río Uchusuma,-18.12056519,-70.33670249,Río,0,0,,57.759,Natural,,1,urban
+TACNA,Quebrada Botijas,-17.99527903,-70.37479904,Quebrada,0,0,,57.759,Natural,,1,urban
+TACNA,Quebrada Honda,-17.93982638,-70.3413473,Quebrada,0,0,,57.759,Natural,,1,urban
+TACNA,Río Locumba,-17.82366018,-70.92696687,Río,1,2,13.91,4.192,Natural,,1,mining
+TACNA,Río Locumba,-17.67087141,-70.82882054,Río,0,0,,3.652,Natural,,0,
+TACNA,Río Salado,-17.55362275,-70.64911972,Río,0,0,,3.652,Natural,,0,
+TACNA,Río Cinto,-17.37719132,-70.59792823,Río,1,7,13.55,6.899,Natural,,2,mining
+TACNA,Río Ilabaya,-17.27788638,-70.37818701,Río,1,3,12.95,2.121,Natural,,1,mining
+TACNA,Río Curibaya,-17.43192953,-70.41995138,Río,1,5,13.36,6.899,Natural,,1,mining
+TACNA,Río Callazos,-17.03902581,-70.2731428,Río,1,1,17.7,1.713,Natural,,1,mining
+TACNA,Río Sama,-18.04874719,-70.66101877,Río,1,2,13.65,3.755,Natural,,1,mining
+TACNA,Quebrada Las Brujas,-17.84365097,-70.45084958,Quebrada,0,0,,2.131,Natural,,0,
+TACNA,Quebrada Honda,-17.81959641,-70.67414644,Quebrada,1,1,18.33,3.755,Natural,,1,mining
+TACNA,Río Sama,-17.69193917,-70.47125237,Río,1,4,16.49,2.131,Natural,,1,mining
+TACNA,Río Sama,-18.11798595,-70.66315865,Río,1,2,17.96,3.755,Natural,,1,mining
+TACNA,Río Sama,-18.05730981,-70.66465515,Río,1,2,13.71,3.755,Natural,,1,mining
+TACNA,Quebrada del Canal,-17.8100505,-70.30304653,Quebrada,1,1,17.48,99.562,Natural,,1,"mining, urban"
+TACNA,Río Curibaya,-17.35291914,-70.27846487,Río,1,4,14.62,11.354,Natural,,1,mining
+TACNA,Río Caplina,-18.11573242,-70.38104996,Río,0,0,,14.4,Natural,,0,
+TUMBES,Quebrada Seca,-4.050997931,-80.85916845,Quebrada,0,0,,15.071,Natural,,0,
+TUMBES,Quebrada Cazaderos,-4.046414379,-80.47007712,Quebrada,0,0,,16.502,Natural,,0,
+TUMBES,Río Tumbes,-3.858344167,-80.46625134,Río,0,0,,11.411,Natural,,0,
+TUMBES,Quebrada Bocapán,-3.856387968,-80.66937941,Quebrada,0,0,,5.271,Natural,,0,
+TUMBES,Río Zarumilla,-3.524655801,-80.21522007,Río,0,0,,509.587,Natural,,2,urban
+TUMBES,Río Zarumilla,-3.672172997,-80.19015967,Río,0,0,,16.07,Natural,,0,
+TUMBES,Quebrada Balsamal,-3.780123284,-80.1822998,Quebrada,0,0,,16.07,Natural,,0,
+TUMBES,Río Tumbes,-3.534242234,-80.4883015,Río,0,0,,629.12,Natural,,2,urban
+TUMBES,Quebrada Seca,-4.152794453,-80.69852755,Quebrada,0,0,,5.271,Natural,,0,
+TUMBES,Río Tumbes,-3.688493108,-80.45041471,Río,0,0,,16.502,Natural,,0,
+TUMBES,Quebrada Bocapán,-4.12647408,-80.64629868,Quebrada,0,0,,5.271,Natural,,0,
+TUMBES,Quebrada Fernández,-4.148732565,-80.96162161,Quebrada,0,0,,15.071,Natural,,0,
+UCAYALI,Río Mishahua,-11.3859745,-72.66548065,Río,0,0,,1.188,Natural,,0,
+UCAYALI,Río Urubamba,-10.92291375,-73.16631721,Río,0,0,,1.188,Natural,,0,
+UCAYALI,Río Inuya,-10.56486672,-72.94239251,Río,0,0,,2.911,Natural,,0,
+UCAYALI,Río Cohengua,-10.29368949,-73.53189971,Río,0,0,,2.911,Natural,,0,
+UCAYALI,Río Yurúa,-9.854680115,-72.58596508,Río,0,0,,0.317,Natural,,0,
+UCAYALI,Río Amonea,-9.64974707,-73.02750363,Río,0,0,,0.317,Natural,,0,
+UCAYALI,Río Unine,-10.87973477,-74.09423957,Río,0,0,,2.911,Natural,,0,
+UCAYALI,Río Urubamba,-10.71689358,-73.61914142,Río,0,0,,2.911,Natural,,0,
+UCAYALI,Río Ucayali,-10.64897719,-73.85974383,Río,0,0,,2.911,Natural,,0,
+UCAYALI,Río Ucayali,-10.42961585,-74.02017946,Río,0,0,,2.911,Natural,,0,
+UCAYALI,Río Ucayali,-10.18245562,-74.02538558,Río,0,0,,1.472,Natural,,0,
+UCAYALI,Río Tahuanía,-10.10375546,-73.61147198,Río,0,0,,1.472,Natural,,0,
+UCAYALI,Río Ucayali,-9.913080904,-74.05222779,Río,0,0,,1.472,Natural,,0,
+UCAYALI,Quebrada Genepanshea,-9.774998084,-73.7383596,Quebrada,0,0,,1.472,Natural,,0,
+UCAYALI,Río Ucayali,-9.366795405,-74.31988191,Río,0,0,,1.894,Natural,,0,
+UCAYALI,Río Tamaya,-9.027570663,-73.61696385,Río,0,0,,1.064,Natural,,0,
+UCAYALI,Río Ucayali,-8.633705658,-74.38307272,Río,0,0,,1.064,Natural,,0,
+UCAYALI,Río Aguaytia,-8.517666234,-75.32141701,Río,0,0,,6.075,Natural,,0,
+UCAYALI,Río Ucayali,-8.343810663,-74.45838624,Río,0,0,,15.76,Natural,,0,
+UCAYALI,Río Cujar,-10.87833352,-72.11275871,Río,0,0,,0.196,Natural,,0,
+UCAYALI,Río Curiuja,-10.61712709,-72.08368805,Río,0,0,,0.196,Natural,,0,
+UCAYALI,Río Purús,-10.43571443,-71.26946565,Río,0,0,,0.196,Natural,,0,
+UCAYALI,Río Curanja,-10.31192939,-71.58025004,Río,0,0,,0.196,Natural,,0,
+UCAYALI,Río Embira,-10.18236829,-72.11586851,Río,0,0,,0.196,Natural,,0,
+UCAYALI,Río Purús,-9.683234344,-70.66738441,Río,0,0,,0.196,Natural,,0,
+UCAYALI,Río Santa Rosa,-9.613663652,-70.78453409,Río,0,0,,0.196,Natural,,0,
+PUNO,Río Suches,-15.17136344,-69.18356097,Río,0,0,,4.166,Natural,,0,
+PUNO,Río Suches,-15.04164684,-69.31367988,Río,0,0,,4.166,Natural,,0,
+PUNO,Río Suches,-14.79559043,-69.33986517,Río,1,3,10.28,10.044,Natural,,1,mining
+PIURA,Río Calvas,-4.527070271,-79.52637827,Río,0,0,,20.235,Natural,,0,
+PIURA,Río Chira,-4.417130866,-80.28808858,Río,1,12,14.8,10.894,Natural,,2,mining
+PIURA,Río Chira,-4.388441386,-80.23936674,Río,1,11,13.81,10.894,Natural,,2,mining
+PIURA,Río Chira,-4.350802452,-80.20675213,Río,1,11,16.49,10.894,Natural,,2,mining
+PIURA,Río Chira,-4.300948268,-80.16557355,Río,1,4,17.94,10.894,Natural,,1,mining
+PIURA,Río Macara,-4.328899656,-80.05330157,Río,1,7,14.74,10.894,Natural,,2,mining
+TUMBES,Quebrada Pilares,-4.32909268,-80.41960057,Quebrada,0,0,,7.197,Natural,,0,
+TUMBES - PUYANGO,Río Tumbes - Puyango,-3.951373856,-80.2113999,Río,0,0,,11.411,Natural,,0,
+TUMBES,Quebrada Balsamal,-3.723179978,-80.18369444,Quebrada,0,0,,16.07,Natural,,0,
+TUMBES - PUYANGO,Río Tumbes - Puyango,-3.995202828,-80.34734749,Río,0,0,,11.411,Natural,,0,
+PIURA,Río Chira,-4.408922308,-80.26873838,Río,1,12,14.14,10.894,Natural,,2,mining
+AMAZONAS,Río Amazonas,-4.005875454,-70.15012093,Río,0,0,,3.476,Natural,,0,
+TUMBES,Río Zarumilla,-3.63087698,-80.18658757,Río,0,0,,16.07,Natural,,0,
+PASCO,Río Mantaro,-11.06967434,-76.08648682,Río,1,2,11.65,3.322,Natural,,1,mining
+PUNO,Río Suches,-15.11154045,-69.25796195,Río,0,0,,4.166,Natural,,0,

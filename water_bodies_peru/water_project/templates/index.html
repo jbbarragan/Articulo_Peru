@@ -1,0 +1,522 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa de Cuerpos de Agua - Perú | Sistema DOT</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    
+    <!-- IMPORTANTE: Leaflet MarkerCluster para agrupar marcadores y reducir uso de memoria -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"/>
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        #map {
+            height: 100vh;
+            width: 100%;
+        }
+
+        .info-panel {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,.3);
+            z-index: 1000;
+            max-width: 320px;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+
+        .filter-toggle {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: white;
+            padding: 12px 15px;
+            border-radius: 6px;
+            cursor: pointer;
+            z-index: 1000;
+            box-shadow: 0 2px 5px rgba(0,0,0,.2);
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .filter-toggle:hover {
+            background: #f0f0f0;
+        }
+
+        .loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: white;
+            padding: 20px 30px;
+            border-radius: 8px;
+            z-index: 2000;
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(0,0,0,.3);
+        }
+
+        .color-indicator {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            margin-right: 5px;
+            border: 1px solid #333;
+        }
+
+        /* Chatbot simplificado */
+        .chatbot-container {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            z-index: 2000;
+        }
+
+        .chatbot-button {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            border: 3px solid white;
+            overflow: hidden;
+        }
+
+        .chatbot-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+        }
+
+        .chatbot-button img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .chatbot-button-text {
+            color: white;
+            font-weight: bold;
+            font-size: 24px;
+        }
+
+        .chatbot-iframe-container {
+            position: fixed;
+            bottom: 100px;
+            left: 20px;
+            width: 400px;
+            height: 600px;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+            transform: scale(0);
+            transform-origin: bottom left;
+            transition: transform 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+            z-index: 1999;
+        }
+
+        .chatbot-iframe-container.active {
+            transform: scale(1);
+        }
+
+        .chatbot-iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        @media (max-width: 768px) {
+            .chatbot-iframe-container {
+                width: 90vw;
+                height: 70vh;
+                bottom: 100px;
+                left: 5vw;
+            }
+
+            .info-panel {
+                max-width: 280px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <div class="loading" id="loading">
+        Cargando datos del mapa...<br>
+        <small style="font-size: 12px; font-weight: normal;">Procesando datos de Perú</small>
+    </div>
+
+    <div class="filter-toggle" onclick="togglePanel()">☰</div>
+
+    <div class="info-panel" id="infoPanel">
+        <div class="bg-gray-100 p-3 rounded-lg mb-3">
+            <b class="text-gray-800">Tipo de Mapa</b><br>
+            <label class="flex items-center mt-2 cursor-pointer">
+                <input type="radio" name="mapType" value="street" checked onchange="changeMapType('street')" class="mr-2">
+                <span>Calles</span>
+            </label>
+            <label class="flex items-center mt-1 cursor-pointer">
+                <input type="radio" name="mapType" value="satellite" onchange="changeMapType('satellite')" class="mr-2">
+                <span>Satélite</span>
+            </label>
+            <label class="flex items-center mt-1 cursor-pointer">
+                <input type="radio" name="mapType" value="topographic" onchange="changeMapType('topographic')" class="mr-2">
+                <span>Topográfico</span>
+            </label>
+        </div>
+
+        <div class="border-t-2 border-gray-300 pt-3 mb-3">
+            <div class="text-sm space-y-1">
+                <div class="flex items-center">
+                    <span class="color-indicator" style="background: #1E90FF;"></span>
+                    <span>Azul: Sin contaminación, sin minas</span>
+                </div>
+                <div class="flex items-center">
+                    <span class="color-indicator" style="background: #FF8C00;"></span>
+                    <span>Naranja: Sin contaminación, con minas</span>
+                </div>
+                <div class="flex items-center">
+                    <span class="color-indicator" style="background: #8B4513;"></span>
+                    <span>Café: Contaminado (nivel 1)</span>
+                </div>
+                <div class="flex items-center">
+                    <span class="color-indicator" style="background: #000000;"></span>
+                    <span>Negro: Muy contaminado (nivel 2)</span>
+                </div>
+                <div class="flex items-center">
+                    <span class="color-indicator" style="background: #FF1493;"></span>
+                    <span>Rosa: Contaminado + minas cercanas</span>
+                </div>
+            </div>
+        </div>
+
+        <hr class="my-3 border-gray-300">
+        
+        <div class="mb-3">
+            <b class="text-gray-800">Filtrar por Contaminación</b><br>
+            <label class="flex items-center mt-2 cursor-pointer">
+                <input type="checkbox" checked onchange="toggleContamination(0)" class="mr-2">
+                <span>Sin contaminación</span>
+            </label>
+            <label class="flex items-center mt-1 cursor-pointer">
+                <input type="checkbox" checked onchange="toggleContamination(1)" class="mr-2">
+                <span>Contaminado</span>
+            </label>
+            <label class="flex items-center mt-1 cursor-pointer">
+                <input type="checkbox" checked onchange="toggleContamination(2)" class="mr-2">
+                <span>Muy contaminado</span>
+            </label>
+        </div>
+
+        <div class="mb-3">
+            <b class="text-gray-800">Filtrar por Minas</b><br>
+            <label class="flex items-center mt-2 cursor-pointer">
+                <input type="checkbox" checked onchange="toggleMines(false)" class="mr-2">
+                <span>Sin minas cercanas</span>
+            </label>
+            <label class="flex items-center mt-1 cursor-pointer">
+                <input type="checkbox" checked onchange="toggleMines(true)" class="mr-2">
+                <span>Con minas cercanas</span>
+            </label>
+        </div>
+
+        <hr class="my-3 border-gray-300">
+        <div id="stats" class="text-sm leading-relaxed"></div>
+    </div>
+
+    <!-- Chatbot Container -->
+    <div class="chatbot-container">
+        <div class="chatbot-button" onclick="toggleChatbot()" id="chatbotButton">
+            <img src="{% static 'images/DOT.jpg' %}" alt="DOT Assistant" id="dotImage" onerror="this.style.display='none'; document.getElementById('dotFallback').style.display='flex';">
+            <div id="dotFallback" class="chatbot-button-text" style="display:none;">DOT</div>
+        </div>
+        <div class="chatbot-iframe-container" id="chatbotIframe">
+            <iframe 
+                src="http://localhost:8001" 
+                class="chatbot-iframe"
+                allow="microphone; camera"
+            ></iframe>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    
+    <script>
+        // ============================================================
+        // VERSIÓN OPTIMIZADA CON CLUSTERING
+        // Reduce uso de memoria agrupando marcadores cercanos
+        // ============================================================
+        
+        let map;
+        let markerClusterGroup;
+        let allMarkersData = [];
+        let contaminationFilters = {0: true, 1: true, 2: true};
+        let mineFilters = {true: true, false: true};
+        let currentLayer;
+
+        const statsDiv = document.getElementById("stats");
+        const loadingDiv = document.getElementById("loading");
+        const infoPanel = document.getElementById("infoPanel");
+
+        // Definir capas de mapa
+        const mapLayers = {
+            street: L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap contributors',
+                maxZoom: 19
+            }),
+            satellite: L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+                attribution: 'Tiles © Esri',
+                maxZoom: 19
+            }),
+            topographic: L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+                attribution: 'Map data: © OpenStreetMap contributors, SRTM | Map style: © OpenTopoMap',
+                maxZoom: 17
+            })
+        };
+
+        // Inicializar
+        initMap();
+
+        function initMap() {
+            map = L.map('map').setView([-9.19, -75.015], 6);
+
+            currentLayer = mapLayers.street;
+            currentLayer.addTo(map);
+
+            // Crear grupo de clustering con configuración optimizada
+            markerClusterGroup = L.markerClusterGroup({
+                maxClusterRadius: 50,
+                spiderfyOnMaxZoom: true,
+                showCoverageOnHover: false,
+                zoomToBoundsOnClick: true,
+                disableClusteringAtZoom: 15 // Desagrupar al acercarse mucho
+            });
+
+            loadCSV();
+        }
+
+        function changeMapType(type) {
+            if (currentLayer) {
+                map.removeLayer(currentLayer);
+            }
+            currentLayer = mapLayers[type];
+            currentLayer.addTo(map);
+        }
+
+        function loadCSV() {
+            const csvPath = '/static/data/data.csv';
+            
+            Papa.parse(csvPath, {
+                download: true,
+                header: true,
+                skipEmptyLines: true,
+                encoding: 'UTF-8',
+                complete: function(results) {
+                    console.log("✅ Datos cargados:", results.data.length, "registros");
+                    processData(results.data);
+                    loadingDiv.style.display = 'none';
+                },
+                error: function(error) {
+                    console.error("❌ Error al cargar CSV:", error);
+                    loadingDiv.innerHTML = "⚠️ Error: No se pudo cargar data.csv<br><small style='font-size:11px;'>" + error.message + "</small>";
+                }
+            });
+        }
+
+        function getMarkerColor(contamination, hasMines) {
+            if (contamination > 0 && hasMines) {
+                return '#FF1493'; // Rosa
+            }
+            if (contamination === 2) {
+                return '#000000'; // Negro
+            }
+            if (contamination === 1) {
+                return '#8B4513'; // Café
+            }
+            if (hasMines) {
+                return '#FF8C00'; // Naranja
+            }
+            return '#1E90FF'; // Azul
+        }
+
+        function processData(data) {
+            let stats = {
+                total: 0,
+                withMines: 0,
+                noContamination: 0,
+                contaminated: 0,
+                veryContaminated: 0
+            };
+
+            allMarkersData = [];
+
+            data.forEach((row, index) => {
+                // Manejar BOM UTF-8
+                let region = (row.Region || row['ï»¿Region'] || '').trim();
+                
+                let lat = parseFloat(row.lat);
+                let lon = parseFloat(row.lon);
+
+                if (isNaN(lat) || isNaN(lon)) {
+                    return;
+                }
+
+                let nombre = row.Nombre || 'Sin nombre';
+                let tipo = row.Tipo || '';
+                let densidadPoblacional = row['Densidad poblacional'] || '';
+                let tipoSuelo = row['Tipo de suelo'] || '';
+                let usoSuelo = row['uso de suelo'] || '';
+                
+                let minasCercaValue = row['Minas Cerca?'] || '';
+                let hasMines = minasCercaValue.toString().trim() === '1';
+                
+                let cantidadMinas = row.Cantidad || '';
+                
+                let contaminacionValue = row['Contaminación'] || '';
+                let contamination = 0;
+                if (contaminacionValue.toString().trim() === '1') {
+                    contamination = 1;
+                } else if (contaminacionValue.toString().trim() === '2') {
+                    contamination = 2;
+                }
+                
+                let tipoContaminacion = row['Tipo de contaminación'] || '';
+
+                // Estadísticas
+                stats.total++;
+                if (hasMines) stats.withMines++;
+                if (contamination === 0) stats.noContamination++;
+                if (contamination === 1) stats.contaminated++;
+                if (contamination === 2) stats.veryContaminated++;
+
+                let markerColor = getMarkerColor(contamination, hasMines);
+
+                let popupContent = `
+                    <div style="min-width:200px;">
+                        <b style="font-size:14px;">${nombre}</b><br>
+                        <b>Región:</b> ${region}<br>
+                        <b>Lat:</b> ${lat.toFixed(6)}<br>
+                        <b>Lon:</b> ${lon.toFixed(6)}<br>
+                        <b>Tipo:</b> ${tipo}<br>
+                        <b>Densidad poblacional:</b> ${densidadPoblacional}<br>
+                        <b>Tipo de suelo:</b> ${tipoSuelo}<br>
+                        <b>Uso de suelo:</b> ${usoSuelo}
+                `;
+
+                if (hasMines) {
+                    popupContent += `<br><b>Cantidad de minas cercanas:</b> ${cantidadMinas || 'No especificado'}`;
+                }
+
+                if (contamination > 0) {
+                    popupContent += `<br><b>Tipo de Contaminación:</b> ${tipoContaminacion || 'No especificado'}`;
+                }
+
+                popupContent += `</div>`;
+
+                // Crear marcador
+                let marker = L.circleMarker([lat, lon], {
+                    radius: 6,
+                    fillColor: markerColor,
+                    color: '#FFFFFF',
+                    weight: 1.5,
+                    fillOpacity: 0.8
+                }).bindPopup(popupContent);
+
+                marker.contamination = contamination;
+                marker.hasMines = hasMines;
+
+                allMarkersData.push(marker);
+            });
+
+            // Agregar todos al cluster
+            markerClusterGroup.addLayers(allMarkersData);
+            map.addLayer(markerClusterGroup);
+
+            updateStats(stats);
+            console.log("✅ Mapa renderizado con clustering:", stats.total, "marcadores");
+        }
+
+        function updateStats(stats) {
+            statsDiv.innerHTML = `
+                <b>Estadísticas Generales</b><br>
+                Total de cuerpos: ${stats.total}<br>
+                Con minas cercanas: ${stats.withMines}<br>
+                <br>
+                <b>Por contaminación:</b><br>
+                Sin contaminación: ${stats.noContamination}<br>
+                Contaminados: ${stats.contaminated}<br>
+                Muy contaminados: ${stats.veryContaminated}
+            `;
+        }
+
+        function toggleContamination(level) {
+            contaminationFilters[level] = !contaminationFilters[level];
+            applyFilters();
+        }
+
+        function toggleMines(hasMines) {
+            mineFilters[hasMines] = !mineFilters[hasMines];
+            applyFilters();
+        }
+
+        function applyFilters() {
+            markerClusterGroup.clearLayers();
+
+            let filteredMarkers = allMarkersData.filter(marker => {
+                let showContamination = contaminationFilters[marker.contamination];
+                let showMines = mineFilters[marker.hasMines];
+                return showContamination && showMines;
+            });
+
+            markerClusterGroup.addLayers(filteredMarkers);
+            
+            console.log("Filtros aplicados:", filteredMarkers.length, "de", allMarkersData.length, "marcadores visibles");
+        }
+
+        function togglePanel() {
+            if (infoPanel.style.display === 'none') {
+                infoPanel.style.display = 'block';
+            } else {
+                infoPanel.style.display = 'none';
+            }
+        }
+
+        function toggleChatbot() {
+            const iframe = document.getElementById('chatbotIframe');
+            iframe.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>
